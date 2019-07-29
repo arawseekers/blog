@@ -1,0 +1,82 @@
+baseURL = "https://arawseekers.github.io"
+languageCode = "en-us"
+title = "Araw Seekers"
+theme = "hello-friend-ng"
+publishDir = "arawseekers.github.io"
+
+rssLimit  = 10  # Maximum number of items in the RSS feed.
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+
+[params]
+  dateform        = "02 Jan 2006"
+  dateformShort   = "02 Jan"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "Blog by the Araw Seekers"
+  keywords = ""
+  images = [""]
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+[languages]
+  [languages.en]
+    title = "Araw Seekers"
+    subtitle = "Mundane Experience by Photosynthesis"
+    keywords = ""
+    copyright = ""
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "$ cd /home/"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+	# You can create a language based menu
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "ABOUT"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "posts"
+        name = "Blog"
+        url = "/posts"
+
+#social icons
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:arawseekers@tuta.io"
+
+# And you can even create generic menu
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
+
+    [privacy]
+      [privacy.disqus]
+        disable = true
+      [privacy.googleAnalytics]
+        disable = true
+      [privacy.instagram]
+        disable = true
+      [privacy.twitter]
+        disable = true
+      [privacy.vimeo]
+        disable = true
+      [privacy.youtube]
+        disable = true
