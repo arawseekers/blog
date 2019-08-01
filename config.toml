@@ -1,8 +1,8 @@
-baseURL = "https://arawseekers.github.io"
+baseURL = ""
 languageCode = "en-us"
 title = "Araw Seekers"
 theme = "hello-friend-ng"
-publishDir = "arawseekers.github.io"
+publishDir = ""
 
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
@@ -14,7 +14,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Blog by the Araw Seekers"
+  homeSubtitle = "(A)typical Experiences by Photosynthesis"
   keywords = ""
   images = [""]
 
@@ -25,8 +25,8 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 
 [languages]
   [languages.en]
-    title = "Araw Seekers"
-    subtitle = "Mundane Experience by Photosynthesis"
+    title = "🌞 Araw Seekers 🌞"
+    subtitle = "(A)typical Experiences by Photosynthesis"
     keywords = ""
     copyright = ""
     readOtherPosts = "Read other posts"

@@ -10,8 +10,10 @@ title: "The Imperfect Narrative of Repairing an iPod Classic 160GB"
 weight: 10
 series:
 - Hugo 101
+tags:
+- Repair
 ---
-
+<img src="/images/ipod7.jpg">
 <!-- wp:heading -->
 <h2>First, an Introduction</h2>
 <!-- /wp:heading -->
@@ -125,7 +127,11 @@ series:
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"ids":[32,33,36,37]} -->
-<ul class="wp-block-gallery columns-3 is-cropped"><li class="blocks-gallery-item"><figure><img src="https://arawseekers.files.wordpress.com/2019/07/20190710_113618.jpg" alt="" data-id="32" data-link="https://arawseekers.wordpress.com/20190710_113618/" class="wp-image-32"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://arawseekers.files.wordpress.com/2019/07/20190710_113638.jpg" alt="" data-id="33" data-link="https://arawseekers.wordpress.com/20190710_113638/" class="wp-image-33"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://arawseekers.files.wordpress.com/2019/07/20190710_113728.jpg" alt="" data-id="36" data-link="https://arawseekers.wordpress.com/20190710_113728/" class="wp-image-36"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://arawseekers.files.wordpress.com/2019/07/20190710_113740.jpg" alt="" data-id="37" data-link="https://arawseekers.wordpress.com/20190710_113740/" class="wp-image-37"/></figure></li></ul>
+<p><img src="/images/ipod1.jpg"></p>
+<p><img src="/images/ipod2.jpg"></p>
+<p><img src="/images/ipod3.jpg"></p>
+<p><img src="/images/ipod5.jpg"></p>
+<p><img src="/images/ipod6.jpg"></p>
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->

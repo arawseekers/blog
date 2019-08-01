@@ -6,9 +6,9 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Araw Seekers"
 +++
 
-We, the Araw Seekers, are two different individuals, who one day decided to write our journey and exploration of our thoughts, musings and actions. Published in the internet to be archived and serve as reference in understanding and living our present. The expressions written, hopefully, may help others navigate their own future musings and adventures.
+We, the Araw Seekers, are two different individuals, who one day decided to write the journey and exploration of our thoughts, musings, and actions. Published in the Internet to be archived and serve as reference in understanding and living our present. The expressions written, hopefully, may help others navigate their own future musings and adventures.
 
-_Araw_ is the Filipino term for the Sun. Seekers are people who seek (v.), which then means:
+_Araw_ is the Filipino term for the Sun.  Seekers are people who seek (v.), which then means:
 
 
  
@@ -26,4 +26,4 @@ _Araw_ is the Filipino term for the Sun. Seekers are people who seek (v.), whi
 
 
 
-Dedicated to those who hope, no matter how dark the night is, knowing that morning, preluded by dawn, always comes. The seekers consist of Isya and Ohio (two different individuals) who currently occupies the same space and breathes the same air.
+Dedicated to those who hope, no matter how dark the night is, knowing that morning, preluded by dawn, always comes. The seekers consist of Isya and Ohio (two different individuals) who currently occupy the same space and breathes the same air.
