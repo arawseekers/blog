@@ -8,7 +8,9 @@ aliases = ["about-us","about-hugo","contact"]
 
 We, the Araw Seekers, are two different individuals, who one day decided to write the journey and exploration of our thoughts, musings, and actions. Published in the Internet to be archived and serve as reference in understanding and living our present. The expressions written, hopefully, may help others navigate their own future musings and adventures.
 
-_Araw_ is the Filipino term for the Sun.  Seekers are people who seek (v.), which then means:
+_Araw_ is the Filipino term for the Sun. 
+
+Seekers are people who seek (v.), which then means:
 
 
  

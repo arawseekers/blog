@@ -196,9 +196,15 @@ tags:
 <p>On our second day, we ditched our itinerary and decided to go where it’s convenient with the light rain and overcast weather. We went out to immerse ourselves in the grandiose of Chiang Kai-Shek Memorial Hall. &nbsp; The landmark houses the National Theater, National Concert Hall, and the main building that houses the huge monument of Chang Kai-Shek.  A spectacle we witnessed was the changing of honor guards.  Isya felt like the guards themselves were in deep meditation, as their synchronised movements require complete concentration and precision.&nbsp; Likewise, the choreography amazed Ohio, but he zoned out in the middle of the routine.  We wondered, “Does Chiang Kai-Shek even appreciate the hourly show of changing guards?”</p>
 <!-- /wp:paragraph -->
 
+{{< figure src="/images/twC01.jpg" alt="A stolen shot of Ohio in the main gate Chiang Kai Shek's Memorial Hall" position="center" style="border-radius: 8px; max-width: 100%; height:auto:" caption=" Ohio and the Gate of Great Centrality and Perfect Uprightness" captionPosition="center" captionStyle="color: 297298;" >}}
+
+{{< figure src="/images/twC02.jpg" alt="View of the Chiang Kai Shek Park" position="center" style="border-radius: 8px; max-width: 100%; height:auto:" caption=" Chiang Kai Shek Park" captionPosition="center" captionStyle="color: 297298;" >}}
+
 <!-- wp:gallery {"ids":[113]} -->
 {{< figure src="/images/tw13.jpg" alt="Inside Chiang Kai Shek's Main Memorial hall, his large bronze statue smiles at the visitors as they enter" position="center" style="border-radius: 8px; max-width:100%;height:auto;" caption="Inside CHK Main Memorial Hall" captionPosition="center" captionStyle="color: 297298;" >}}
 <!-- /wp:gallery -->
+
+{{< figure src="/images/twC03.jpg" alt=" Native pine trees of Taiwan and home to nimble creatures like squirrels" position="center" style="border-radius:8px; max-width:100%;heaight:auto;" caption="Isya among the towering and nimble creatures" captionPosition="center" captionStyle="color: 297298;">}}
 
 <!-- wp:paragraph -->
 <p>Digesting Chang Kai-Shek’s life and works made us hungry that after the slow tour we did by ourselves, we headed out in search for a place to eat. In its large complex area, we discovered a forested area at the back of the Memorial Hall, replete with different types of pine trees. More interestingly, tiny, nimble creatures live in the tiny forest – squirrels.&nbsp; They populate the area and are not afraid to get close to visitors. </p>

@@ -2,7 +2,7 @@ baseURL = ""
 languageCode = "en-us"
 title = "Araw Seekers"
 theme = "hello-friend-ng"
-publishDir = ""
+publishDir = "docs"
 
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
@@ -28,11 +28,12 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     title = "🌞 Araw Seekers 🌞"
     subtitle = "(A)typical Experiences by Photosynthesis"
     keywords = ""
-    copyright = ""
+    copyright = "Isya and Ohio"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "$ cd /home/"
+      logoText = "HOME"
+      path = ""
       logoHomeLink = "/"
     # or
     #
