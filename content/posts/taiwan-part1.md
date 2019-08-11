@@ -11,7 +11,7 @@ weight: 10
 series:
 - Hugo 101
 tags:
-- Travel
+- Travel, i&o
 ---
 <!-- wp:heading -->
 <h2>5W, 1H of it</h2>

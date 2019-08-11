@@ -22,11 +22,29 @@
     </item>
     
     <item>
-      <title>Repair</title>
-      <link>/tags/repair/</link>
+      <title>i&amp;o</title>
+      <link>/tags/io/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel, i&amp;o</title>
+      <link>/tags/travel-io/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/travel-io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repair, O</title>
+      <link>/tags/repair-o/</link>
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/repair/</guid>
+      <guid>/tags/repair-o/</guid>
       <description></description>
     </item>
     

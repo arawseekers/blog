@@ -12,6 +12,7 @@ series:
 - Hugo 101
 tags:
 - Repair
+- O
 ---
 <img src="/images/ipod7.jpg">
 <!-- wp:heading -->

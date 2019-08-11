@@ -12,6 +12,7 @@ series:
 - Hugo 101
 tags:
 - Travel
+- i&o
 ---
 <p><em>Have you read <a href="/posts/taiwan-part1/">Part 1</a></em>?</p>
 <!-- wp:paragraph -->
