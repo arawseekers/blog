@@ -12,6 +12,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   dateformShort   = "02 Jan"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
+  
 
   # Metadata mostly used in document's head
   homeSubtitle = "(A)typical Experiences by Photosynthesis"
@@ -22,6 +23,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   contentTypeName = "posts"
   # Default theme "light" or "dark"
   defaultTheme = "dark"
+  themeColor = "#252627"
 
 [languages]
   [languages.en]
@@ -56,6 +58,10 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   [[params.social]]
     name = "email"
     url  = "mailto:arawseekers@tuta.io"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/arawseekers"
 
 # And you can even create generic menu
 [menu]

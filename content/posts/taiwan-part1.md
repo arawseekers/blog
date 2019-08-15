@@ -242,7 +242,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The whole trip we made whopping 23k steps. Fatigue finally kicked us in once we got back to the guesthouse and saw our bed. </p>
+<p>The whole trip we made whopping 23k steps. Fatigue finally kicked us in once we got back to the guesthouse and saw our bed.<code>-o)-</code> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

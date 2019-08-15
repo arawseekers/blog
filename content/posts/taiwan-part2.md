@@ -74,8 +74,16 @@ tags:
 <p>We ended in a tea place called Yao Yue Tea House, a highly rated place in Wenshan. The place reminded us of Japanense aesthetics. We sat outside for an overlooking view of the hillside, near another couple who was already there. The oolong tea we ordered was served with a complete tea set, and was meant to be the traditional way. The menu came with a how-to-have-tea, so we made sure to follow them. We had chao fan, dumplings, and sweet and sour fish. </p>
 <!-- /wp:paragraph -->
 
+{{< figure src="/images/twTT01.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
+
+{{< figure src="/images/twTT02.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
+
+{{< figure src="/images/twTT03.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
+
+{{< figure src="/images/twTT04.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
 <!-- wp:paragraph -->
 <p>After the late lunch, we decided to head out for Taipei 101, to get to know how monumental it really is up close. </p>
+
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -96,6 +104,9 @@ tags:
 
 <!-- wp:paragraph -->
 <p>The driver essentially said yes. We all boarded the bus. Drum rolls halt; curtains fall. Looking back on it, it’s nice to know there are still good-hearted people, some of them are even willing to bridge the babel between strangers.</p>
+
+{{< figure src="/images/twT101.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
+
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -134,6 +145,12 @@ tags:
 <p>In one of the buildings in the Park, we ate lunch at Alleycat's, a pizzeria that already offers alcoholic drinks as early as noon. Our bill spiked to NTD 1,056 for the pizza and several little dishes we ordered. Not good, or charge to experience?</p>
 <!-- /wp:paragraph -->
 
+{{< figure src="/images/twCP03.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
+
+{{< figure src="/images/twCP01.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
+
+{{< figure src="/images/twCP02.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
+
 <!-- wp:paragraph -->
 <p>Several MRT stations away, we found loitering in the greenery of Da’an Forest Park. Here we increased our steps while taking in the view, watching people do what people in forest parks. </p>
 <!-- /wp:paragraph -->
@@ -153,6 +170,14 @@ tags:
 <!-- wp:list -->
 <ul><li>Fried dumplings worth NTD 50; tasty and plentiful, a good food intro before diving into the heart of the night market</li><li>Grilled octopus tentacle worth NTD 140; expensive for its bland taste, don’t eat.</li><li>Stinky tofu worth NTD 80; while okay on its own, it could have been better if we ate it with a small bowl of rice.</li><li>Milk tea holder worth NTD 100; a gift to bring back home, but also serves as a template for Isya for her to make thousands more of it.</li><li>Sticker worth NTD 30; pink, with the image of two fists bumping headlined by the words "real friends" all in capital letters.<br></li></ul>
 <!-- /wp:list -->
+
+{{< figure src="/images/twSH01.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
+
+{{< figure src="/images/twSH02.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
+
+{{< figure src="/images/twSH03.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
+
+{{< figure src="/images/twSH04.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
 
 <!-- wp:heading -->
 <h2>Day 5</h2>
@@ -178,6 +203,12 @@ tags:
 <p>The roof deck provided a wonderful view of the busy district.&nbsp;</p>
 <!-- /wp:paragraph -->
 
+{{< figure src="/images/twSP01.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
+
+{{< figure src="/images/twSP02.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
+
+{{< figure src="/images/twSP03.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
+
 <!-- wp:paragraph -->
 <p>On our way to Eslite Bookshop, we witnessed a car accident, known in Filipinx slang as 'carambola'. This particular one involved four vehicles on a single lane bumping into each other because the one on the front may have floored the brake too hard, so that it ensues further miscalculations for the drivers behind him. These kinds of accidents still happen in a city more disciplined than Manila. Isya inferred, "As long as there are cars, and there are humans driving them, there will always be car accidents."</p>
 <!-- /wp:paragraph -->
@@ -197,6 +228,10 @@ tags:
 <!-- wp:paragraph -->
 <p>Second only to Fuyang Eco Park, I find Dahu Park, one of my favorite places we went to. The lack of people (at the time, at least) definitely made it more attractive. Plus, the building on the entrance has an indoor swimming pool. Will we ever get to practice our breast strokes there?</p>
 <!-- /wp:paragraph -->
+
+{{< figure src="/images/twGP01.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
+
+{{< figure src="/images/twGP02.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
 
 <!-- wp:paragraph -->
 <p>They also built a memorial hall for Sun Yat Sen, another of Taiwan's founding fathers, though not as grand as Chiang Kai-Shek's.</p>
@@ -234,7 +269,13 @@ tags:
 <p>On Day 3, we did get to the Tower. If you’re the type of person who never liked being surrounded by many people, consider this: Taipei 101 might seem overrated, but seeing it in person cannot be, uh, <em>overlooked</em>.
 
 <p>On Day 5, we had <em>another</em> lunch -- ramen -- after our visit in Suho Paper Museum. At the unholy afternoon hour, no one else was in the diner, and we wondered whether we were early for dinner.</p>
+<p>Lastly, here are interesting pics of clean Taiwan streets. Go find them.<code>-o)-</code></p>
 
+{{< figure src="/images/twST01.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
+{{< figure src="/images/twST02.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
+{{< figure src="/images/twST03.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
+{{< figure src="/images/twST04.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
+{{< figure src="/images/twST05.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
 </p>
 <!-- /wp:paragraph -->
 

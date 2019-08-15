@@ -144,5 +144,5 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>But it isn't stupid if it works, right? This iPod lives on, then.</p>
+<p>But it isn't stupid if it works, right? This iPod lives on, then.<code>-o)-</code></p>
 <!-- /wp:paragraph -->
