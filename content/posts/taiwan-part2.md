@@ -152,7 +152,7 @@ tags:
 {{< figure src="/images/twCP02.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
 
 <!-- wp:paragraph -->
-<p>Several MRT stations away, we found loitering in the greenery of Da’an Forest Park. Here we increased our steps while taking in the view, watching people do what people in forest parks. </p>
+<p>Several MRT stations away, we found loitering in the greenery of Da’an Forest Park. Here we increased our steps while taking in the view, watching people what they do in forest parks. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -210,11 +210,11 @@ tags:
 {{< figure src="/images/twSP03.jpg" position="center" style="border-radius: 8px; max width:100%;height:auto;">}}
 
 <!-- wp:paragraph -->
-<p>On our way to Eslite Bookshop, we witnessed a car accident, known in Filipinx slang as 'carambola'. This particular one involved four vehicles on a single lane bumping into each other because the one on the front may have floored the brake too hard, so that it ensues further miscalculations for the drivers behind him. These kinds of accidents still happen in a city more disciplined than Manila. Isya inferred, "As long as there are cars, and there are humans driving them, there will always be car accidents."</p>
+<p>On our way to Eslite Bookshop, we witnessed a car accident, known in Filipino slang as 'carambola'. This particular one involved four vehicles on a single lane bumping into each other because the one on the front may have floored the brake too hard, so that it ensues further miscalculations for the drivers behind him. These kinds of accidents still happen in a city more disciplined than Manila. Isya inferred, "As long as there are cars, and there are humans driving them, there will always be car accidents."</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Eslite bookshop is a wonderful tourist destination, it is a five story bookstore that operates 24/7. Its presence in the heart of the city&nbsp; just goes to show that Taiwanese hold high regard to reading. The promise of knowledge contained in books always entices me to come and open its pages, especially if the cover captures my attention. We were told not to judge them by appearance alone, but the books in Eslite Bookshop hold many promises, if only we could read the characters. Definitely, we would like to spend more time if only we were not confined to reading only English alphabet letters. It doesn’t only house books but is also a place to showcase arts and crafts. </p>
+<p>Eslite bookshop is a wonderful tourist destination, it is a five story bookstore that operates 24/7. Its presence in the heart of the city&nbsp; just goes to show that Taiwanese hold high regard to reading. The promise of knowledge contained in books is always enticing to come and open its pages, especially if the cover captures my attention. We were told not to judge them by appearance alone, but the books in Eslite Bookshop hold many promises, if only we could read the characters. Definitely, we would like to spend more time if only we were not confined to reading only English alphabet letters. It doesn’t only house books but is also a place to showcase arts and crafts. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -262,7 +262,7 @@ tags:
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Isya has been stressing about bed bug bites she had the whole trip, which might be an allergic reaction. It was super itchy and warm that it made me wake up in the middle of the night to scratch the bites. Yes, it was a big not to scratch inflamed bites but the itch was agonizing and torturous.&nbsp; What stresses me more is that we couldn’t figure out where I got those bites because Ohio never got any. So, the source might not be in our bedroom, let alone on the bed. And it’s entirely improbable it’s in something we ate, because we practically ate the same food. The only possible source would be during our hike at the Fuyang Eco park on our very first day at Taipei. </p>
+<p>Isya has been stressing about bed bug bites she had the whole trip, which might be an allergic reaction. It was super itchy and warm that it woke her up in the middle of the night to scratch the bites. Yes, it was a big not to scratch inflamed bites but the itch was agonizing and torturous.&nbsp; What is more stressing is the fact that we couldn’t figure out where she got the bites because Ohio never got any. So, the source might not be in our bedroom, let alone on the bed. And it’s entirely improbable it’s in something we ate, because we practically ate the same food. The only possible source would be during our hike at the Fuyang Eco park on our very first day at Taipei. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

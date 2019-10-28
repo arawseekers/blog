@@ -27,7 +27,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Good thing that for Filipinxs wanting to experience Taiwan, it is not difficult since we are granted visa-free entry until the end of July 2019. (Update: <a href="https://www.taiwannews.com.tw/en/news/3721553">As of writing, the visa-free entry has been extended until 2020</a>).<br></p>
+<p>Good thing that for Filipinos wanting to experience Taiwan, it is not difficult since we are granted visa-free entry until the end of July 2019. (Update: <a href="https://www.taiwannews.com.tw/en/news/3721553">As of writing, the visa-free entry has been extended until 2020</a>).<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
