@@ -20,7 +20,7 @@ A staple in both landscaping and urban planning is adding a natural element in a
 <h2>Exhibit A</h2>
 People have concluded that this plant box (and many others) is where to place their trash. A dead shrub remains standing, with the help of another dead wood, in spite of its fate. Whether garbage caused it to die, we cannot verify. But surely, single-use plastics have better places to go, and better forms to be, i.e. in their original state as fossil fuel deep beneath the earth, untouched and unprocessed by human greed.
 
-{{< figure src="/images/pb01.jpeg" alt="A plant box on a sidewalk, littered with garbage" position="center" style="border-radius: 8px; max-width:100%;height:auto;" caption="Since when did we began to mistake these for garbage bins?" captionPosition="center" captionStyle="color: 297298;">}}
+{{< figure src="/images/pb01.jpeg" alt="A plant box on a sidewalk, littered with garbage" position="center" style="border-radius: 8px; max-width:100%;height:auto;" caption="Since when did we begin to mistake these for garbage bins?" captionPosition="center" captionStyle="color: 297298;">}}
 
 
 
