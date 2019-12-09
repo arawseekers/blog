@@ -31,6 +31,6 @@ On a different location, owners of a nearby hardware store populated a similar p
 
 Can we then conclude that plants can be used as natural deterrent against environment trashers?
 
-However, several days after taking the pictures above, plant boxes on exhibit A and B are sadly no more. No thanks to the local government unit's clearing operations, neither plants nor their boxes survived. We wouldn't have really known if they're trash deterrent.
+However, several days after taking the pictures above, plant boxes on exhibit A and B are sadly no more. No thanks to the local government unit's clearing operations, neither plants nor their boxes survived. We wouldn't have really known if they're trash deterrent.<code>-o)-</code>
 
 {{< figure src="/images/pb03.jpeg" alt="Concrete and soil debris where a plant box used to be" position="center" style="border-radius: 8px; max-width:100%;height:auto;" caption="Clearing operations in favor of pedestrians?" captionPosition="center" captionStyle="color: 297298;" >}}

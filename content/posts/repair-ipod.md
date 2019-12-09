@@ -16,28 +16,33 @@ tags:
 ---
 <img src="/images/ipod7.jpg">
 <!-- wp:heading -->
-<h2>First, an Introduction</h2>
+<blockquote>
+<strong>"It is well known in practice that repair of a failed item may not yield a functioning item which is "as good as new"</strong>
+
+Brown, Mark, and Frank Proschan. <em>"Imperfect repair."</em> Journal of Applied probability 20.4 (1983): 851-859.</blockquote>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"left"} -->
-<p style="text-align:left">Call me, for now, Ohio, one-half of the Araw Seekers. And in my opinion, repairing broken things needs a bit of technical skill to understand what one needs to do on a particular situation with the tools one has. Repairing also happens to be a noble undertaking for anyone who is looking into reducing the waste we send to our landfills. In this world filled with people who breaks things, a repair-person is in demand, nay, GOLD.</p>
+<p style="text-align:left">In our opinion, repairing broken things is a noble undertaking for anyone who is looking to reduce the waste we send to our landfills. In this world filled with people who breaks things, a repair-person is in demand, nay, GOLD. (It's worth noting that a different person is tapped to help broken people.)</p>
+
+<p>We should take note, however, that in order to achieve true sustainability, we must follow its top capital R's in <em>this</em> order: Refuse, Reduce, Reuse, Repair, Rot, Recycle, and Rethink. You'll notice that Repair is only fourth in order of importance, but important nonetheless.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>This is one of my current fascinations. While engineering school taught me how physical things behave the way they do, the programs there focused on the theoretical side of things. The tactility involved in reverse-engineering things, to me at least, is more rewarding. </p>
+<h2>What would be the problem if the item repaired isn't as good as new?</h2>
+<p>It depends.</p>
+
+<p>If the item is required to measure something, did repairing it restored its original calibrations? Did it improve or worsen? How do we even know if the output is accurate if the device itself <em>could</em> be inaccurate starting at the time of failure? There are more questions other than these that must be answered before and after a repair, and the answers to each depend on the complexity of the problem and the technical expertise of the handyman. Indeed, learning about proper diagnostics and troubleshooting are important skills to learn for a repairman of any trade.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>As a kid, I disassembled toy radios with a Philips screwdriver and examined the circuit board within, as if I understood each part. Of course, everything then looked foreign, but it was one of the few moments in life when I admired the Unknown <em>because</em>, not in spite of, its abstract layout. Much, much later, I would come to find out that circuit boards, and the parts within, serve a function in a device it is installed in. </p>
+<p>As a kid, Ohio disassembled toy radios with a Philips screwdriver and examined the circuit board within, not really knowing what each part was for. Everything then looked foreign, but it's those moments the Unknown became awesome.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>In one of his talks, the notorious astrophysicist Neil deGrasse Tyson encouraged parents to let their children mess around with their playthings, granted that they wouldn't get into hazardous situations. He meant that in order to begin the process of learning, one must be proud in their practice to break things apart, even if it's just for the sake of looking at their parts; and to have adults guide them doing so, not be preventing them just because it makes the house untidy.</p>
+<p>The act of repairing isn't a revelation. It's a natural reaction, a sort of problem-solving tool, to anything broken, or are prone to breaking. Just look at the small stalls, formal or informal, by the streets that are more than capable to fix your watch, umbrella, shoes, electric fans, washing machines, televisions, refrigerators, etc.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>As years went by, the curiosity has lessened, because we, the practical adults, have too little time to be curious just for fun. Or that we have found fun in other exertions of effort. </p>
-<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p>Today, anyone can begin learning how to repair broken stuff. If you think expertise matters, then do a quick search in YouTube for repair tutorials. Most of them are created by people enthused by the prospect of helping others repair their own things. If, you think the proper tools matter, why, yes, they do, but some of them can be borrowed from your friend or neighbor.</p>
@@ -62,22 +67,15 @@ tags:
 <!-- wp:paragraph -->
 <p>I remember watching a <a href="https://invidio.us/watch?v=SuTcavAzopg">Casey and Van Neistat video</a> that went viral in the early naught's, titled "iPod's Dirty Secret". It exposed that "iPOD'S UNREPLACEABLE [sic] BATTERY LASTS ONLY 18 MONTHS". At the time, to refurbish the iPod with a bust battery, the owner would have to send it back to Apple's Customer Service and pay around US$ 250. At that price, why not just get a new one?</p>
 <!-- /wp:paragraph -->
-
+<p>This Apple behavior should not surprise anyone. Apple is still screwing over their customers today by continuously blocking third-party repairs, and also lobby against Right to Repair legislation currently being put forward in the US. That's why it's better to "take advantage" of their devices that are still repairable. One of them, fortunately is this iPod.</p>
 <!-- wp:paragraph -->
-<p>This business strategy isn't exclusive to Apple's iPods, nor to Apple, for that matter. In the time of Thomas Edison, incandescent light bulbs' filament was changed from carbon to tungsten -- the latter being thinner than the former, and thus cheaper to reproduce -- so that selling them had become more profitable because of planned obsolescence. </p>
+<p>This business strategy, though, isn't exclusive (shocking!) to Apple's iPods, nor to Apple (even more shocking!), for that matter. In the time of Thomas Edison, incandescent light bulbs' filament was changed from carbon to tungsten -- the latter being thinner than the former, and thus cheaper to reproduce -- so that selling them had become more profitable because of planned obsolescence. We're sure there'd be more of them now and in the future, as people seem to idolize the likes of both Steve Jobs and Thomas Edison, "innovators" that they were.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>There are many other companies that continue to sell their products with planned obsolescence. This means that the product -- in many of them, electronic device -- is designed to break down after a few years of regular use. Worse, when they do break down, it's constructed to be difficult to open. They also don't share the repair manual. If one did manage to open it, the parts are either glued together, attached to the case with incompatible screws, or their replacements are hard to find.  </p>
+<p>Many other companies continue to sell their products with planned obsolescence. This means that the product -- in many of them, electronic device -- is designed to break down after a few years of regular use. Worse, when they do break down, it's constructed to be difficult to open. They also don't share the repair manual. If one did manage to open it, the parts are either glued together (so that picking them apart is difficult), attached to the case with incompatible screws, or their replacements are hard to find. </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>"Can I repair it?" I asked Isya. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Let there be silence.</p>
-<!-- /wp:paragraph -->
 
 <!-- wp:heading -->
 <h2>Isya's iPod -- an interstitial</h2>
@@ -92,11 +90,11 @@ tags:
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p> So, amid the lull between bid-thee-well and borrow, I managed to convince Isya to let me try to upgrade her iPod Classic. This was after I already did research on the matter, what parts to buy, what tools to pry it with, and so on.</p>
+<p> So, amid the lull between bid-thee-well and borrow, Isya was convinced to let her iPod Classic have an overhaul. This was after the research had already been conducted on the matter, what parts to buy, what tools to pry it with, and so on.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Starting out, it's important to have a guide one can work with, unless one has been gifted with wits to deal with a complex electronic device. My starting point for this project was <a href="https://invidio.us/watch?v=4AF1Pjbwc6c">Geek Detour's video</a>. It's informative as well as entertaining. Everson Siqueira, the channel's host, also details what he did wrong, so the viewers can learn from his mistakes.</p>
+<p>At the outset, it's important to have a guide one can work with, unless one has the natural wits to deal with a complex electronic device. The starting point for this project was <a href="https://invidio.us/watch?v=4AF1Pjbwc6c">Geek Detour's video</a>. It's informative as well as entertaining. Everson Siqueira, the channel's host, also details what he did wrong, so the viewers can learn from his mistakes.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -104,7 +102,7 @@ tags:
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Here's the list of things that I bought online:</p>
+<p>Here's the list of things bought online:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -120,11 +118,11 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If we were to include in the process the time I had waited for the items to be delivered, then this whole fiasco lasted about three months, including the time I spent in lethargic limbo. Life happens, and sometimes I get less excited even on things that I am passionate about. </p>
+<p>If we were to include in the process the time we had to wait for the items to be delivered, then this whole fiasco lasted about three months, including the time Ohio spent in lethargic limbo. Life happens, and sometimes things get less exciting even on those we thought we're truly passionate about. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Upgrading Isya's iPod turned out to be a success, of course, but as the title implies, the state in which I put it in now is below standard. Look:</p>
+<p>Upgrading Isya's iPod turned out to be a success, of course, but as the title implies, the state in which it has been put in now is below standard. Look:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"ids":[32,33,36,37]} -->
@@ -136,7 +134,7 @@ tags:
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
-<p>I can't figure out why there is an opposing force pushing on the back panel, preventing my totally closing it. I could brute-force it to close, but I reckon this might damage the LCD screen, or pierce the battery, or what-have-you. I'd like to think  I did all the steps correctly, but Isya commented that it could be that the battery I used was an ill fit for the the iPod.</p>
+<p>We can't figure out what's blocking the components inside, preventing a complete close of the back panel. It could be brute-forced to close, but we reckon this might damage the LCD screen, or pierce the battery, or what-have-you. We'd like to think that we did all the steps correctly, but Isya commented that it could be that the battery used was an ill fit for the the iPod.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

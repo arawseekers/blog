@@ -12,7 +12,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   dateformShort   = "02 Jan"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
-  
+
 
   # Metadata mostly used in document's head
   homeSubtitle = "(A)typical Experiences by Photosynthesis"
@@ -46,7 +46,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "about"
-        name = "ABOUT"
+        name = "About"
         url = "/about"
       [[languages.en.menu.main]]
         identifier = "posts"
@@ -63,6 +63,10 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     name = "github"
     url  = "https://github.com/arawseekers"
 
+    [[params.social]]
+      name = "instagram"
+      url  = "https://instagram.com/petbookshelf"
+
 # And you can even create generic menu
 [menu]
   [[menu.main]]
@@ -73,6 +77,11 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+
+  [[menu.main]]
+    identifier = "now"
+    name       = "Now"
+    url        = "/now"
 
     [privacy]
       [privacy.disqus]

@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Isya and Ohio</copyright>
-    <lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Travel</title>
+      <link>/tags/travel/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>i&amp;o</title>
+      <link>/tags/io/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/io/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Environment</title>
@@ -22,11 +40,11 @@
     </item>
     
     <item>
-      <title>i&amp;o</title>
-      <link>/tags/io/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <title>O</title>
+      <link>/tags/o/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/io/</guid>
+      <guid>/tags/o/</guid>
       <description></description>
     </item>
     
@@ -36,24 +54,6 @@
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/manifesto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>o</title>
-      <link>/tags/o/</link>
-      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/o/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Travel</title>
-      <link>/tags/travel/</link>
-      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/travel/</guid>
       <description></description>
     </item>
     
