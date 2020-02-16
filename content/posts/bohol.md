@@ -20,7 +20,7 @@ tags:
 
 <p>We did make it, though, on time - enough time, even, to have a quick lunch comprising unpalatable highway robbery airport food. The traffic situation that plagues the road of Metro Manila has converted the disciplined to disenfranchised in less time - much less time - it takes you to get from Ayala Blvd to... well, Paseo de Roxas.</p>
 
-<h3>Now, in Bohol</h3>
+<h3>Arrival at Bohol</h3>
 <p>When we landed to Panglao Airport, we hopped on an airport service vehicle. Prices are steep, as expected from any airport services, so manage your expectations accordingly. It was about a 40-minute uneventful ride towards our lodging in Tagbilaran, save for the occasional comments of the passengers (the three of us, Isya, Merci [her mother], and Ohio <em>duh</em>) on the many an old wooden houses. This was just a small sample of Boholano architecture, and we all like it, simple and old that they are.</p>
 
 <p>Our night stroll let us expose ourselves to the native streets of Tagbilaran, which at some point was filled a plume of smoke from a burning garbage heap inside some gated compound. As 'Nay Merci noted, "Here's no different than Dumaguete [where I'm from]."</p>
@@ -49,7 +49,7 @@ tags:
 <h3>The Butterfly Garden</h3>
 <p>...disappointed us, in that it's a claustrophobic experience with the butterflies. At the entrance, visitors are asked to pick the Butterfly Garden and/or Python Area. Only the former had interested us. They claim that some of the butterflies there are exotic species. If so, we asked ourselves, why are they still keeping them for public display?</p>
 
-{{< figure src="/images/bohol17.jpeg" alt="young couple with a banner that says 'Welcome to Butterfly Garden' behind them" position="center" style="border-radius: 8px; max-width:100%;height:auto;" caption=" " captionPosition="center" captionStyle="color: 297298;" >}}
+{{< figure src="/images/bohol17.jpeg" alt="young couple with a banner that says 'Welcome to Butterfly Garden' behind them" position="center" style="border-radius: 8px; max-width:100%;height:auto;" caption="Look at how 'disappointed' we are" captionPosition="center" captionStyle="color: 297298;" >}}
 
 {{< figure src="/images/bohol05.jpeg" alt="a butterfly" position="center" style="border-radius: 8px; max-width:100%;height:auto;" caption="The only one cooperative enough for photo-op" captionPosition="center" captionStyle="color: 297298;" >}}
 
@@ -78,6 +78,21 @@ tags:
 
 <h4>Interstitial</h4>
 <p>We bought a <em>walis-tambo</em> near the Sipatan River in the Municipality of Sevilla. Its handle is made of bamboo, while the actual broom is made of coconut husks, although we sheepishly thought that the fiber closely resembles that of frizzy human hair. We skipped the Hanging Bridges altogether. No, we're not specifically contemptuous against altitudes but to other tourists who were more than willing to take up the space and time of such narrow bridges.</p>
+
+{{< figure src="/images/bohol24.jpeg" alt="the walis-tambo" position="center" style="border-radius: 8px; max-width:100%;height:auto;" caption=" " captionPosition="center" captionStyle="color: 297298;" >}}
+
+{{< figure src="/images/bohol25.jpeg" alt="the walis-tambo" position="center" style="border-radius: 8px; max-width:100%;height:auto;" caption=" " captionPosition="center" captionStyle="color: 297298;" >}}
+
+<p>Here's the full review of the aforementioned walis (for content, of course):
+<ul>
+<li>Design: 3/5
+<li>Durability: 4/5
+<li>Functionality: 2/5
+<li>UX: 2/5
+</ul>
+Overall score: 2.75 out of 5. If you ever see this on your next Bohol trip, we don't recommend you to buy it. 
+</p>
+
 
 <h3>Now, the Chocolate Hills</h3>
 <p>are a sight to behold, as cliche as that is. More than a thousand of them - the hills, not tourists - compete for attention, and rightfully so. They each have their own trait: stout, lonely, distant, huge, etc. We only got up on one big hill, developed for the specific purpose of it being the viewing deck on which to view all the other hills surrounding it.

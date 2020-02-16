@@ -10,7 +10,7 @@ We, the Araw Seekers, are two different individuals, who one day decided to writ
 
 _Araw_ is the Filipino term for the Sun. 
 
-Seekers are people who seek (v.), which then means:
+_Seekers_ are people who seek (v.), which then means:
  
 
 * to try to find or discover by searching or questioning 
@@ -29,9 +29,10 @@ Dedicated to those who hope, no matter how dark the night is, knowing that morni
 
 If you love reading books, why not visit our second-hand bookstore on Instagram? We regularly update the selection. Proceeds will directly benefit the owners, Pablo and Edgar (dog and cat, respectively).
 
-IG: instagram.com/petbookshelf
+**IG: instagram.com/petbookshelf**
 
 <hr>
 
+Currently, we don't have comments on this site. We accept and read and comments, praise, or constructive criticism you might have, but we would rather you post it to your own site and link back here.
 
-Email us: arawseekers@tuta.io
+If you would rather have a conversation, email us: **arawseekers@tuta.io**

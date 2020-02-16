@@ -32,11 +32,11 @@ Brown, Mark, and Frank Proschan. <em>"Imperfect repair."</em> Journal of Applied
 <h2>What would be the problem if the item repaired isn't as good as new?</h2>
 <p>It depends.</p>
 
-<p>If the item is required to measure something, did repairing it restored its original calibrations? Did it improve or worsen? How do we even know if the output is accurate if the device itself <em>could</em> be inaccurate starting at the time of failure? There are more questions other than these that must be answered before and after a repair, and the answers to each depend on the complexity of the problem and the technical expertise of the handyman. Indeed, learning about proper diagnostics and troubleshooting are important skills to learn for a repairman of any trade.</p>
+<p>If the item is required to measure something, did repairing it restore its original calibrations? Did it improve or worsen? How do we even know if the output is accurate if the device itself <em>could</em> be inaccurate starting at the time of failure? There are more questions to be answered before and after a repair, and the answers to each depend on the complexity of the problem and the technical expertise of the handyman. Indeed, learning about proper diagnostics and troubleshooting are important skills to learn for a repairman of any trade.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>As a kid, Ohio disassembled toy radios with a Philips screwdriver and examined the circuit board within, not really knowing what each part was for. Everything then looked foreign, but it's those moments the Unknown became awesome.</p>
+<p>As a kid, Ohio disassembled toy radios with a Philips screwdriver and examined the circuit board within, not really knowing what each part was for. Everything then looked foreign, but it's in those moments that the Unknown became awesome.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -45,7 +45,7 @@ Brown, Mark, and Frank Proschan. <em>"Imperfect repair."</em> Journal of Applied
 
 
 <!-- wp:paragraph -->
-<p>Today, anyone can begin learning how to repair broken stuff. If you think expertise matters, then do a quick search in YouTube for repair tutorials. Most of them are created by people enthused by the prospect of helping others repair their own things. If, you think the proper tools matter, why, yes, they do, but some of them can be borrowed from your friend or neighbor.</p>
+<p>Today, anyone can begin learning how to repair broken stuff. While technical expertise helps, a quick search in YouTube for repair tutorials will yield that many of them are created by people enthused by the prospect of helping others repair their own things. If, you think the proper tools matter, why, yes, they do, but some of them can be borrowed from your friend or neighbor.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

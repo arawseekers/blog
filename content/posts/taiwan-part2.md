@@ -8,8 +8,6 @@ type:
 - post
 - posts
 weight: 10
-series:
-- Hugo 101
 tags:
 - Travel
 - i&o
