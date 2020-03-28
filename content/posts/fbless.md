@@ -1,7 +1,6 @@
 ---
-author:
-  name: "Araw Seekers"
-date: 2020-01-03
+authors: ["isya", "ohio"]
+date: 2020-02-16
 linktitle: One Year Since Quitting Facebook
 title: One Year Since Quitting Facebook
 type:
@@ -10,29 +9,29 @@ type:
 weight: 10
 series:
 - Hugo 101
-tags:
-- Social Media
-- i&o
+tags: ["Social Media"]
 ---
+{{< figure src="/images/facebook.jpeg" alt="A laptop showing a photo of cat in a Facebook group" position="center" style="border-radius: 8px; max-width:100%;height:auto;" caption="Another excuse to binge on social media" captionPosition="center" captionStyle="color: 297298;" >}}
+
 ## Use of FB in daily lives
 
 Since it's free to sign up and use its services, Facebook has been popular for many Filipinos from all walks of life. Here they get updates from friends and non-friends, from relatives,  from celebrities, and even from the news. It has become its own social news aggregate. Users provide the data, such as date of birth, school last attended, the things they like or don't like, etc.; and these data are then fed to the platform's algorithm that's being tweaked to better serve you, i.e, show you things you might appreciate.
 
-As far as we know, the telecom providers here in the Philippines provide free data to FB users. This is useful, especially with the Messenger, in which one can send and receive virtually unlimited number of messages to and from their friends and peers, without having to worry about data charges. There are limitations, of course, when using only free data. For example, photos and videos are not outright available. Still, Facebook, and its other services, Instagram and WhatsApp, seems to be the practical choice when connecting to people with smartphones nowadays.
+As far as we know, the telecom providers here in the Philippines provide free data to FB users. This is useful, especially with the Messenger, in which one can send and receive virtually unlimited number of messages to and from their friends and family, without having to worry about data charges. There are limitations, of course, when using only free data. For example, photos and videos are not outright available. Still, Facebook, and its other services, Instagram and WhatsApp, seems to be the practical choice when connecting to people with smartphones nowadays.
 
 ## Why Quit FB
 
-After the praise, after listing the practical uses of FB, why then do we recommend on quitting the platform altogether?
+Knowing the practical uses of FB, why then do we recommend on quitting the platform altogether?
 
-Because when it mishandled [some 87 million personally identifiable information](https://www.reuters.com/article/us-facebook-privacy-idUSKCN1HB2CM), we should now suspect that it's not the best platform out there to trust our data with. Also, [Facebook has been acting up](https://www.techrepublic.com/article/facebook-data-privacy-scandal-a-cheat-sheet/), not a company we like to support.
+Because when it mishandled [some 87 million personally identifiable information](https://www.reuters.com/article/us-facebook-privacy-idUSKCN1HB2CM), we should now suspect that it's not the best platform out there to trust our data with. Also, [Facebook has been acting up](https://www.techrepublic.com/article/facebook-data-privacy-scandal-a-cheat-sheet/), not a behavior of a company we like to support.
 
-There's also a more important notion that quitting FB predicates, and that is quitting social media altogether. While there are many social networking sites, FB and its subsidiaries hold the most clout, Twitter following closely behind, at least outside China.
+There's also a more important notion that quitting FB predicates, and that is quitting Social Media completely. While there are many social networking sites, FB and its subsidiaries hold the most clout, Twitter following closely behind, at least outside China.
 
-Social media has become the gateway to promote the lifestyles we can't afford. We actively engage in it for fear of missing out. Until we realize that our time is the most distant concept from Free, we will continue expressing ourselves in them hoping for validation from people we're unlikely to meet.
+Social media has become the gateway to promote the lifestyles we can't afford. We actively engage in it for fear of missing out. Until we realize that use of our Time is the most distant concept from Free, we will continue expressing ourselves in platforms like Facebook, expecting validation from people.
 
 ### The Process
 
-There are many tutorials out there that detail the exact way of deactivating and permanently deleting your FB account, but we like the [WikiHow](https://www.techrepublic.com/article/facebook-data-privacy-scandal-a-cheat-sheet/) the best.
+There are many tutorials out there that detail the exact way of deactivating and permanently deleting your FB account, but we like the [WikiHow](https://www.wikihow.com/Quit-Facebook) the best.
 
 Once deactivated, you still need to wait for 30 days of "probation" period before FB would finally take down your profile from the platform. The "probation" period is mostly to test if you really want to quit. We don't know for sure, however, if they would keep records of your data even after "taking them down". Knowing FB, though, it's best assumed that they would. During the wait, be sure to resist the urge to log back in, as this would only reactivate your account, and reset the 30-day count.
 
@@ -112,6 +111,8 @@ Then, they will come around and ask me why I did it. I'm not always able to answ
 
 ### Linkedin Profile
 
+{{< figure src="/images/linkedin.jpeg" alt="A laptop showing a feed from LinkedIn" position="center" style="border-radius: 8px; max-width:100%;height:auto;" caption="It's okay to dislike your job by pretending you agree with colleagues." captionPosition="center" captionStyle="color: 297298;" >}}
+
 In the age of information, it's become an unwritten rule to have an online presence. While we believe that this shouldn't be the case, the opposite would raise suspicion. To avoid that, we recommend for now to have an updated LinkedIn profile. Having one also reduces skepticism, which you would find helpful in the gates of Immigration when they do background checks on you.
 
 However, LinkedIn suffered from data breach in 2012 ([here](https://blog.linkedin.com/2012/06/06/linkedin-member-passwords-compromised) and [here](https://www.pcworld.com/article/257045/6-5m-linkedin-passwords-posted-online-after-apparent-hack.html)) and in 2016 ([here](https://blog.linkedin.com/2016/05/18/protecting-our-members), [here](https://www.vice.com/en_us/article/78kk4z/another-day-another-hack-117-million-linkedin-emails-and-password), and [here](https://fortune.com/2016/05/18/linkedin-data-breach-email-password/)). Although there hasn't been any more reported breaches as of writing this, we can't bet on it yet.
@@ -120,11 +121,15 @@ If you have access to more resources, you can make a simple website of your own,
 
 ### Reddit
 
+{{< figure src="/images/reddit.jpeg" alt="A screengrab from Red Reader, a Reddit client in F-Droid" position="center" style="border-radius: 8px; max-width:100%;height:auto;" caption="As you can see, you can subscribe to as many a diverse topic." captionPosition="center" captionStyle="color: 297298;" >}}
+
 Many would argue that Reddit is a forum site, not a social networking site, but that debate is beyond the scope of this post. Still, we include it here, because unlike FB, it centers on anonymity. It also features a voting system (upvote and downvote) that allows the community to judge for themselves what the quality of a post is. In theory, the combination of the two, anonymity and voting system, encourages healthy discussions within forums (subreddits, they are called, or subs). In practice, however, it's more nuanced than that (read: it builds echo chambers). Some subs can be more prone to circlejerking than others.
 
 We recommend to steer clear from the main subreddits as they are, usually, repositories of rubbish content. We also leave it up to you to discern for yourself which ones do foster healthy discussions. Certainly not [r/dankmemes](https://www.reddit.com/r/dankmemes), though. You have been advised.
 
 ### Any RSS Feed
+
+{{< figure src="/images/rss.jpeg" alt="A screengrab showing a feed from an RSS reader" position="center" style="border-radius: 8px; max-width:100%;height:auto;" caption="A sample RSS Reader look and feel." captionPosition="center" captionStyle="color: 297298;" >}}
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/RSS):
 
@@ -134,7 +139,7 @@ Subscribing to a website RSS removes the need for the user to manually check the
 
 It's quite similar to Facebook's News Feed, but without the algorithm that pre-selects posts to present to you. With the algorithm, other posts are often drowned out, and sometimes forgotten. It's not so with RSS Feed.
 
-In many RSS Feeds, updates from subscriptions are shown in chronological order by default, entrusting to the user the task to select which of the posts are worth consuming.
+In many RSS Feeds, updates from subscriptions are shown in chronological order by default, entrusting the user the task to select which posts are worth consuming.
 
 When considering what RSS reader to choose, pick the one that's accessible to all platforms (web based, Android, iOS) so you can read Content wherever you want. You may want to start [here](https://www.slant.co/topics/446/~best-news-readers).
 
@@ -143,6 +148,5 @@ Don't know which sites to subscribe to yet? Check this [list](https://feeder.co/
 ## Conclusion
 With all the pros and cons enumerated, the answer to the question, "Is it worth spending time in FB, or just ditch it altogether?" should be "Ditch it!"
 
-There are many avenues for maintaining connection with other people.
-
-how do we balance our time to worthwhile activities or distractions?
+There are many avenues for maintaining connection with other people, and we enlisted some of them here. You should also do your own research when choosing what platform to use, and encourage your family and friends to try and switch with you.
+```-o)-```

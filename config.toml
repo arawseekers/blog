@@ -25,6 +25,12 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   defaultTheme = "dark"
   themeColor = "#252627"
 
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+  category = "categories"
+
+
 [languages]
   [languages.en]
     title = "🌞 Araw Seekers 🌞"
@@ -49,9 +55,14 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
+        identifier = "now"
+        name = "Now"
+        url = "/now"
+      [[languages.en.menu.main]]
         identifier = "posts"
         name = "Blog"
         url = "/posts"
+
 
 #social icons
 

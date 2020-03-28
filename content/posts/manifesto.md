@@ -1,6 +1,5 @@
 ---
-author:
-  name: "Araw Seekers"
+authors: ["ohio"]
 date: 2019-08-19
 linktitle: Many days meshing into a manifesto (of sorts)
 title: Many days meshing into a manifesto (of sorts)
@@ -10,38 +9,29 @@ type:
 weight: 10
 series:
 - Hugo 101
-tags:
-- manifesto
-- o
+tags: ["manifesto"]
 ---
-THE FACTUAL PIECES here shall be made obvious when necessary, so try to make allowances for every entry. They say that when two opposite states of matter coexist at a single point in time, it's believed to be in superposition unless an observer finds themself literate enough of the ways to approach such nuance. Accordingly, these statements are neither true nor false until someone (you, <em>the</em> observer?) comes along, and formulates a theory that we can together test.
+THE FACTUAL PIECES here shall be made obvious when necessary, so try to make allowances for every entry. They say that when two opposite states of matter coexist at a single point in time, it's believed to be in superposition unless an observer finds themself literate enough of the ways to approach such nuance. Accordingly, these statements are neither true nor false until someone (you, _the_ observer?) comes along, and formulates a theory that we can together test.
 
 In getting involved, something to think about: How does one allocate the limited resources of one’s being in search for truth? Not all truths can be discovered because we are finite. And in many cases, it is subjective.
 
-<hr>
-<hr>
+---
+---
+> ## Horoscope...now!
 
-<blockquote>
-<p><h2>Horoscope...now!</h2></p>
-<p><strong>Aries</strong>: This is the second best time to quit your addiction to senseless rumination. The best time to quit will be later, when you have thought it through.<br>
-Lucky number: 11101 <br>
-Lucky color: #717171 <br>
-</p>
+>**Aries**: This is the second best time to quit your addiction to senseless rumination. The best time to quit will be later, when you have thought it through.
+Lucky number: 11101 |
+Lucky color: #717171
 
-<p><strong>Taurus</strong>: Rain shall fall upon thy parched garden. When tending to it, try not to use a raincoat. let the water seep in. <br>
-Lucky number: 1000101 <br>
-Lucky color: #FFCFCD <br>
-</p>
+>**Taurus**: Rain shall fall upon thy parched garden. When tending to it, try not to use a raincoat. let the water seep in.
+Lucky number: 1000101 |
+Lucky color: #FFCFCD
 
-<p><strong>Gemini</strong>: focus only on the top 6 priorities on your to-do list, if you have one. if you don't have one, go make a list on what you should be doing in this part of your life, and do the first 6. If the newly-made list comprises only of less than 6 items, congratulations! You're actually an Aries in Gemini's clothes.<br>
-Lucky number: 10000 <br>
-Lucky color: #E1AD01 <br>
-<br>
-</p>
-</blockquote>
-
-<hr>
-<hr>
+>**Gemini**: focus only on the top 6 priorities on your to-do list, if you have one. if you don't have one, go make a list on what you should be doing in this part of your life, and do the first 6. If the newly-made list comprises only of less than 6 items, congratulations! You're actually an Aries in Gemini's clothes.
+Lucky number: 10000 |
+Lucky color: #E1AD01
+---
+---
 
 DO YOU REMEMBER your first few seconds, first few hours on your first job? A secret knot tightens itself in the stomach. You think this is exciting, to put forth something that you came up with, in exchange of money. What you may not have known then is that framing matters. Depending on what life one lead prior to their first (legal) employment, a job could provide a structure in one's life. Or it could disrupt a routine.
 
@@ -51,56 +41,40 @@ Few years later, you find yourself in multiple places, jumping from job to job, 
 
 Greed unknowingly becomes the motif that pushes from beneath, but it is tiring to accommodate it. So greed becomes greenwashed into a different brand. But that brand feels sketched by wobbly hands, details misplaced in spots, and because it is.
 
-<hr>
-<hr>
-<blockquote>
+---
+---
+>**Cancer**: Unless you have a formal education on psychiatry, stop giving people advice from pop articles you read from the Internet. If you do have a formal education on psychiatry, would you kindly drop us a note? We'd like to check ourselves for mental glitches.
+Lucky number: 10 |
+Lucky color: #002D5E
 
+>**Leo**: It would be more productive if you could start learning on how you can grow your own food garden. But it's fine if you can't; we all need take some time to learn something outside our expertise.
+lucky number: 10101 |
+lucky color: #7FFFD4
 
-<p><strong>Cancer</strong>: Unless you have a formal education on psychiatry, stop giving people advice from pop articles you read from the Internet. If you do have a formal education on psychiatry, would you kindly drop us a note? We'd like to check ourselves for mental glitches.<br>
-Lucky number: 10<br>
-Lucky color: #002D5E<br>
-</p>
-
-<p><strong>Leo</strong>: It would be more productive if you could start learning on how you can grow your own food garden. But it's fine if you can't; we all need take some time to learn something outside our expertise.<br>
-lucky number: 10101<br>
-lucky color: #7FFFD4<br>
-</p>
-
-<p><strong>Virgo</strong>: The photos you have been posting on social media sites should remain minimal AND un-filtered. They represent the flaws of humanity; keep it real.<br>
-lucky number: 1010<br>
-lucky color: #E20085<br>
-</p>
-
-</blockquote>
-
-
-
-<hr>
-<hr>
+>**Virgo**: The photos you have been posting on social media sites should remain minimal AND un-filtered. They represent the flaws of humanity; keep it real.
+lucky number: 1010 |
+lucky color: #E20085
+---
+---
 
 EXAMINED MYSELF ON a normal day. I checked out how I looked that day on its opaque surface. Nothing gazed back at me, no surprise in that. I could not have possibly forgotten the only accredited (inter)face I have, but the idea has intrigued me just now. If I, the user of this body, only had the time to be patient with how each of me works, craves, despises, there would be no time for me to be overwhelmed when something bad triggers. I'd be prepared to fill in the hollow steps in this bolero. For now, though, there's no beginning for the user's patience, a small problem I'm willing to forego.
 
-<hr>
-<hr>
+---
+---
+>**Libra**: Information, and of course, knowledge should be available to everyone at little to no cost. Your mission today is to give your favorite book to someone you think most needs it. Tell them to do the same once they're finished reading it.
+Lucky number: 10111 |
+Lucky color: #27111A
 
-<blockquote>
+>**Scorpio**: Instead of nicotine, try cannabis. If that's hard to come by, try Fentanyl. Or a glass of water. You should definitely just drink water.
+Lucky number: 11 |
+Lucky color: #8D9E5D
 
-<p><strong>Libra</strong>: Information, and of course, knowledge should be available to everyone at little to no cost. Your mission today is to give your favorite book to someone you think most needs it. Tell them to do the same once they're finished reading it.<br>
-Lucky number: 10111<br>
-Lucky color: #27111A<br></p>
+>**Sagittarius**: When funding your travels, design it in such a way that you'll leave the least amount of carbon footprint. E.g.: Why don't you explore first your local neighborhood before venturing out to Antarctica?
+Lucky number: 1100000 |
+Lucky color: #FCFFFE
 
-<p><strong>Scorpio</strong>: Instead of nicotine, try cannabis. If that's hard to come by, try Fentanyl. Or a glass of water. You should definitely just drink water.<br>
-Lucky number: 11<br>
-Lucky color: #8D9E5D<br></p>
-
-<p><strong>Sagittarius</strong>: When funding your travels, design it in such a way that you'll leave the least amount of carbon footprint. E.g.: Why don't you explore first your local neighborhood before venturing out to Antarctica?<br>
-Lucky number: 1100000<br>
-Lucky color: #FCFFFE<br></p>
-
-</blockquote>
-
-<hr>
-<hr>
+---
+---
 
 WE TEND TO hold on to a fluid file that gradually, perpetually slips away from our grasp, our memory. The humbling fact that our physiology is borne out of limitations, will sponsor many an angry idea, yet I'll still go by my courtesy that our minds can only do so much.
 
@@ -108,10 +82,10 @@ It was a clear picture at first. But since it reacts -- fades -- with time, the 
 
 (What the picture depicts: a small atrium inside a police station that functioned as a waiting area where cops lounged. Two vending machines hummed, one of them already had its lights flickering. It could all be a practical joke, you thought, as you thumped with pelvis the one with still its lights on. A burning corpse by the floor filled the air with light smoke, choking you when you shouldn't even be alive. Nothing is wrong, you said.)
 
-It's weird, <em>no</em>, considering that we being emotional, social creatures, to have misplaced somewhere along the spacetime what we have felt for a particular instance. When then, do we stop rewriting a figment?
+It's weird, _no_, considering that we being emotional, social creatures, to have misplaced somewhere along the spacetime what we have felt for a particular instance. When then, do we stop rewriting a figment?
 
-<hr>
-<hr>
+---
+---
 
 JUST A MINUTE past noon -- come to think of it, there are plenty of pleasant smells polluting the boring air.
 
@@ -119,25 +93,22 @@ My favorite, for the longest time now, dates back to my high school days, when I
 
 What is your favorite smell?
 
+---
+---
 
-<hr>
-<hr>
+>**Capricorn**: Stay away from night markets. Before you sleep, realize the amount of garbage they sell and produce in each stall.
+Lucky number: 110010 |
+Lucky color: #00E699
 
-<blockquote>
-<p><strong>Capricorn</strong>: Stay away from night markets. Before you sleep, realize the amount of garbage they sell and produce in each stall. <br>
-Lucky number: 110010<br>
-Lucky color: #00E699 <br></p>
+>**Aquarius**: You will be designing a better product for PWDs, because they are in it, too.
+Lucky number: 101001 |
+Lucky color: #080808
 
-<p><strong>Aquarius</strong>: You will be designing a better product for PWDs, because they are in it, too.<br>
-Lucky number: 101001 <br>
-Lucky color: #080808 <br></p>
+>**Pisces**: Before deciding what school you'll take your undergraduate or post-graduate studies in, know this: Universities are driven by business-minded preachers. Bless you, then, if you decide to go to a state diploma mill.
+Lucky number: 10001 |
+Lucky color: #820000
 
-<p><strong>Pisces</strong>: Before deciding what school you'll take your undergraduate or post-graduate studies in, know this: Universities are driven by business-minded preachers. Bless you, then, if you decide to go to a state diploma mill.<br>
-Lucky number: 10001 <br>
-Lucky color: #820000 <br></p>
-</blockquote>
+---
+---
 
-<hr>
-<hr>
-
-WHILE NOT ENTIRELY birthed from the need to catalogue every journey, this gravity between two bodies orbiting one another came to be as an agreement to force them to list as many of their thoughts  as they can, as accurate and precise as they can, sans scientific scripture backing each thesis. This might mean an epistolary bible they can look back to when, for example, dinner talks with relatives produces nothing but the droning of proverbial provincial crickets. This may or may not be the crossroads of our personal endeavors, but we are certain to inject some of our advocacy whenever we can. Whatever wall of text you chance upon here, we hope that you take the time to digest it before deciding what to do with the pulp.<code>-o)-</code>
+WHILE NOT ENTIRELY birthed from the need to catalogue every journey, this gravity between two bodies orbiting one another came to be as an agreement to force them to list as many of their thoughts  as they can, as accurate and precise as they can, sans scientific scripture backing each thesis. This might mean an epistolary bible they can look back to when, for example, dinner talks with relatives produces nothing but the droning of proverbial provincial crickets. This may or may not be the crossroads of our personal endeavors, but we are certain to inject some of our advocacy whenever we can. Whatever wall of text you chance upon here, we hope that you take the time to digest it before deciding what to do with the pulp. ```-o)-```

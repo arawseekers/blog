@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>/posts/fbless/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -38,57 +38,48 @@
   </url>
   
   <url>
+    <loc>/authors/isya/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ohio/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/social-media/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/io/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/travel/</loc>
     <lastmod>2019-11-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/environment/</loc>
     <lastmod>2019-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/o/</loc>
-    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/manifesto/</loc>
     <lastmod>2019-08-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -97,14 +88,17 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/repair/</loc>
     <lastmod>2019-07-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
