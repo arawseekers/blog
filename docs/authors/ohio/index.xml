@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Isya and Ohio</copyright>
-    <lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/ohio/index.xml" rel="self" type="application/rss+xml" />
     
@@ -78,6 +78,25 @@ Their five-day stay in Taipei, Taiwan did not bring any actual “pasalubong” 
       <guid>/posts/repair-ipod/</guid>
       <description>It is well known in practice that repair of a failed item may not yield a functioning item which is &amp;ldquo;as good as new.&amp;rdquo; Brown, Mark, and Frank Proschan. &amp;ldquo;Imperfect repair.&amp;quot; Journal of Applied probability 20.4 (1983): 851-859.
  In our opinion, repairing broken things is a noble undertaking for anyone who is looking to reduce the waste we send to our landfills. In this world filled with people who breaks things, a repair-person is in demand, nay, GOLD.</description>
+    </item>
+    
+    <item>
+      <title>Traveling for Work</title>
+      <link>/posts/travel-for-work/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/travel-for-work/</guid>
+      <description>Earlier this year, I was (un)lucky enough to be reassigned to the account that I thought I&amp;rsquo;d never going back to. Only this time around, the assignment&amp;rsquo;s scope is nationwide, as in I got to go to places in different parts of the country where there is a project. Meaning, my employer would reimburse my travel expenses as long as they&amp;rsquo;re official business trips.
+This is a good time as any, for me at least, to recall these trips, knowing that travel is something I shall not be doing any time soon, until 30 Apr, according to someone.</description>
+    </item>
+    
+    <item>
+      <title>A Health(y) Discourse</title>
+      <link>/posts/healthy-discourse/</link>
+      <pubDate>Fri, 27 Mar 2020 19:09:11 +0800</pubDate>
+      
+      <guid>/posts/healthy-discourse/</guid>
+      <description>Photo by Neil Thomas on Unsplash  We believe in a cooperative economy, especially now when we see how many of the modern day constructs that define how we exist could easily be waived due to COVID-19 pandemic. It only shows how many of these constructs are non-essential to human existence. Who knew that by keeping only what’s enough can maintain modern lives? In the long run, this is more sustainable than jump-starting (again) the gears of capitalism.</description>
     </item>
     
   </channel>

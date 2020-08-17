@@ -11,3 +11,5 @@ aliases = ["about-us","about-hugo","contact"]
 **Ohio** works on his anti-work narratives.
 
 **Isya** is everything a person needs to be: kind, caring, smart.
+
+**Both** of them are marooned indoors while COVID-19 is still a thing. We like to keep as safe as possible.

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Isya and Ohio</copyright>
-    <lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 19:09:11 +0800</lastBuildDate>
     
 	<atom:link href="/tags/manifesto/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,6 +19,15 @@
       
       <guid>/posts/manifesto/</guid>
       <description>THE FACTUAL PIECES here shall be made obvious when necessary, so try to make allowances for every entry. They say that when two opposite states of matter coexist at a single point in time, it&amp;rsquo;s believed to be in superposition unless an observer finds themself literate enough of the ways to approach such nuance. Accordingly, these statements are neither true nor false until someone (you, the observer?) comes along, and formulates a theory that we can together test.</description>
+    </item>
+    
+    <item>
+      <title>A Health(y) Discourse</title>
+      <link>/posts/healthy-discourse/</link>
+      <pubDate>Fri, 27 Mar 2020 19:09:11 +0800</pubDate>
+      
+      <guid>/posts/healthy-discourse/</guid>
+      <description>Photo by Neil Thomas on Unsplash  We believe in a cooperative economy, especially now when we see how many of the modern day constructs that define how we exist could easily be waived due to COVID-19 pandemic. It only shows how many of these constructs are non-essential to human existence. Who knew that by keeping only what’s enough can maintain modern lives? In the long run, this is more sustainable than jump-starting (again) the gears of capitalism.</description>
     </item>
     
   </channel>
