@@ -1,15 +1,15 @@
 ---
 authors: ["ohio"]
-linktitle: "Traveling for Work"
 title: "Traveling for Work"
 date: 2020-04-10
-toc: false
-images:
 tags: ["Travel"]
 ---
-Earlier this year, I was (un)lucky enough to be reassigned to the account that I thought I'd never going back to. Only this time around, the assignment's scope is nationwide, as in I got to go to places in different parts of the country where there is a project. Meaning, my employer would reimburse my travel expenses as long as they're official business trips.
+Earlier this year, I was (un)lucky enough to be reassigned to the account that I thought I'd never be going back to. 
+Only this time around, the assignment's scope is nationwide, as in I got to go to places in different parts of the country where there a project site exists. 
+Meaning, my employer would reimburse my travel expenses as long as they're official business trips.
 
-This is a good time as any, for me at least, to recall these trips, knowing that travel is something I shall not be doing any time soon, until [30 Apr, according to someone](https://news.mb.com.ph/2020/04/07/duterte-extends-lockdown-to-april-30/). And tethered to the house we choose, to continue to flatten the curve, except for the few times that we have to run to the nearest wet market for food supplies.
+This is a good time as any, for me at least, to recall these trips, knowing that travel is something I shall not be doing any time soon, until [30 Apr, according to someone](https://news.mb.com.ph/2020/04/07/duterte-extends-lockdown-to-april-30/). 
+And to be tethered to the house we choose, to help to flatten the curve, except for the few times that we have to run to the nearest wet market for food supplies.
 
 Anyway, let me put here my travel notes, plus some photos -- ranging from late January to late February -- without mentioning anything work-related, because damn it, I *dislike* working that much!
 
@@ -34,7 +34,7 @@ The only thing worth remembering here is the after-work, of course. The sooner I
 
 ---
 
-#### INTERSTITIAL
+### INTERSTITIAL
 
 {{< figure src="/images/tfw13.jpeg" alt="bird's eyeview of a mountain" position="center" style="border-radius: 8px; max-width:100%;height:auto;" caption="I think this is Mount Kanlaon?" captionPosition="center" captionStyle="color: 297298;" >}}
 

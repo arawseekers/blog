@@ -1,8 +1,9 @@
 ---
+authors: ["isya"]
 title: "I Mask, I Mask, I Mask"
 date: 2020-08-17T16:05:59+08:00
 draft: false
-tags:
+tags: ["DIY"]
 ---
 
 {{< figure src="/images/sinulid-min.gif" alt="Giling Sinulid" position="center" style="border-radius: 8px; max-width:100%;height:auto;" caption="Threading Bobbin" captionPosition="center" captionStyle="color: 297298;" >}}
@@ -32,7 +33,7 @@ Chill crazy.
 
 How did I do my masks?
 
-One thing I’ve learned from my brief stint in fashion school and course in pattern making is that your model can be from your what you already have.
+One thing I’ve learned from my brief stint in fashion school and course in pattern making is that your model can be from what you already have.
 *Tadah!*
 A very industrious ingenious idea.
 
