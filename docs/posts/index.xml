@@ -6,7 +6,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Isya and Ohio</copyright>
-        <lastBuildDate>Mon, 17 Aug 2020 16:05:59 +0800</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2020 14:53:26 +0800</lastBuildDate>
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
@@ -1320,6 +1320,158 @@ Their five-day stay in Taipei, Taiwan did not bring any actual “pasalubong” 
 <p>We can&rsquo;t figure out what&rsquo;s blocking the components inside, preventing a complete close of the back panel. It could be brute-forced to close, but we reckon this might damage the LCD screen, or pierce the battery, or what-have-you. We&rsquo;d like to think that we did all the steps correctly, but Isya commented that it could be that the battery used was an ill fit for the the iPod.</p>
 <p>A proper repair guy would retrace the steps he did to figure out what went wrong where, but I think troubleshooting is better saved for the future as a separate endeavor.</p>
 <p>But it isn&rsquo;t stupid if it works, right? This iPod lives on, then. <code>-o)-</code></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>How to post a blog here (META)</title>
+            <link>/posts/arawflow/</link>
+            <pubDate>Sun, 30 Aug 2020 14:53:26 +0800</pubDate>
+            
+            <guid>/posts/arawflow/</guid>
+            <description>Dear Isya,
+Last year, we came to an agreement to make a blog that would reflect some of our musings that we can share to the public. Araw Seekers the blog has existed since.
+Static Site choice While our first choice was to create one using WordPress, I realized later on that that platform is bloated. So many widgets, plugins, and other applications that we will never use. These unnecessary stuff affect loading times of a site.</description>
+            <content type="html"><![CDATA[<p>Dear Isya,</p>
+<p>Last year, we came to an agreement to make a blog that would reflect some of our musings that we can share to the public.
+Araw Seekers the blog has existed since.</p>
+<h2 id="static-site-choice">Static Site choice</h2>
+<p>While our first choice was to create <a href="https://arawseekers.wordpress.com/">one</a> using WordPress, I realized later on that that platform is bloated.
+So many widgets, plugins, and other applications that we will never use.
+These unnecessary stuff affect loading times of a site.
+Since our use case is only a small blog, we ditched the dynamic content management system of big names like WordPress or Blogger, and opted for something called static site generator.</p>
+<p>As the name implies, it generates a static site, which you could think of as a &ldquo;traditional&rdquo; websitewhere all content consists of HTML files.
+This is good for our use case, because it means faster loading times due to it requiring less processing power.
+Not only that, but bloated websites contribute to huge power consumptions in data centers and servers around the world.
+Since le Internet is big, one can imagine the implications on our environment.
+All the more we should &ldquo;slim down&rdquo; our site.</p>
+<p>I picked <a href="https://gohugo.io">Hugo</a> at the time of this site&rsquo;s creation, for no particular reason other than it&rsquo;s supposed to be one of, if not <em>the</em>, fastest static site generators out there.</p>
+<h2 id="the-workflow">The Workflow</h2>
+<p>Now, I will try to explain the work flow when creating and/or editing a blog entry to be posted here.
+Since we will be mainly working on your MacBook Pro, any commands will only consider that environment.</p>
+<h3 id="prelims">Prelims</h3>
+<p>First, open the following programs:</p>
+<ul>
+<li>Terminal (where you will type commands later)</li>
+<li>Atom, or any text editor (where you will edit the blog entries)</li>
+<li>Firefox, or any web browser (where you will view the rendered site)</li>
+</ul>
+<blockquote>
+<p><strong>TIP</strong>: Make use of the Spotlight by pressing <code>⌘ + Space</code>, and start typing the name of the programs above.</p>
+</blockquote>
+<h3 id="step-1-go-to-our-sites-folder">Step 1: Go to our site&rsquo;s folder</h3>
+<p>In the terminal, enter <code>arawseekers</code>.
+This is an <em>alias</em> (a shortcut for a command, usually shorter than the original) that will bring you to <code>isyaferrer/Sites/arawseekers/</code> folder.</p>
+<h3 id="step-2-create-new-post">Step 2: Create New Post</h3>
+<p>If you will edit an existing post, skip this step and proceed to the Step 3.</p>
+<p>If you are starting a new entry, enter in the terminal: <code>hugo new content/posts/xyz.md</code>.
+Let&rsquo;s break down that command:</p>
+<ul>
+<li><code>hugo new</code> generates a new, blank post</li>
+<li><code>content/posts</code> is the relative folder in which this new file is placed. You can replace this with other folder path, but that&rsquo;s out of the scope (quite literally) of this entry.</li>
+<li><code>xyz</code> is the would-be title of the blog post. Although you can edit this later, make it relevant to the post. Mind also the <code>.md</code> (markdown) file extension as this is important.</li>
+</ul>
+<h3 id="step-3-content-creation">Step 3: Content Creation</h3>
+<p>Using the Atom editor, open the file.</p>
+<p>The top part is called the front matter.
+This is the post&rsquo;s metadata that usually includes the title post, date and time of creation, tags, etc., all of which can be edited.</p>
+<p>You can start the blog entry after the front matter.</p>
+<pre><code>---
+title: &quot;How to post a blog here (META)&quot;
+date: 2020-08-30T14:53:26+08:00
+draft: false
+tags: [&quot;hugo&quot;, &quot;blog&quot;]
+---
+Dear Isya,
+
+Last year, we came to an agreement to make a blog that would reflect some of our musings that we can share to the public.
+Araw Seekers the blog has existed since.
+</code></pre>
+<p>Now that&rsquo;s meta.</p>
+<p>Since you will be editing this in a markdown file, I suggest you <a href="https://www.markdownguide.org/cheat-sheet">familiarize yourself with markdown</a>.</p>
+<h4 id="the-small-matter-of-compressing-images">The small matter of compressing images</h4>
+<p>As mentioned earlier, static sites load faster.
+Usually.
+We can maintain this trait by not uploading high quality images.</p>
+<p>To compress any image you might include in a post, upload them first in <a href="https://tinyjpg.com">TinyJPG</a>.
+You can upload &ldquo;up to 20 images, max 5 MB each&rdquo;.
+After compressing all the images, download them all and paste them in <code>isyaferrer/Sites/arawseekers/static/images/</code>.
+You can now refer to the images in this folder path.</p>
+<blockquote>
+<p><strong>TIP</strong>: If you&rsquo;re using the <a href="https://www.privacytools.io/browsers/#addons">hardened Firefox</a>, then you can bypass the 20-image limit of TinyJPG.
+Just quit the browser, reopen, and revisit TinyJPG.
+This should clear the cookies stored in the browser.
+Rinse and repeat as needed.</p>
+</blockquote>
+<h3 id="step-4-checking-the-content">Step 4: Checking the Content</h3>
+<p>Now that you have content, you may want to know how it looks as a blog post.</p>
+<p>In the terminal, enter <code>hugo server</code>.
+This command renders the site for preview in the browser.
+As long as this is running in the terminal, changes made (and saved) in Atom are immediately reflected in the browser, which can be viewed when you enter <code>localhost:1313</code> in the URL bar.</p>
+<p>Also, you can&rsquo;t input new commands while this is running in the terminal.
+You may want to open a new instance of terminal if you&rsquo;re going to input some new command.</p>
+<p>Press <code>control + C</code> to stop the rendering, thus freeing the terminal.</p>
+<p>Here&rsquo;s a sample terminal output:</p>
+<pre><code>                   | EN   
+-------------------+------
+Pages            |  47  
+Paginator pages  |   0  
+Non-page files   |   0  
+Static files     | 165  
+Processed images |   0  
+Aliases          |   6  
+Sitemaps         |   1  
+Cleaned          |   0  
+
+Built in 744 ms
+Watching for changes in /Users/isyaferrer/Sites/arawseekers/{archetypes,assets,content,data,layouts,static,themes}
+Watching for config changes in /Users/isyaferrer/Sites/arawseekers/config.toml
+Environment: &quot;development&quot;
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at //localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+</code></pre>
+<p>And here&rsquo;s how it would look like in the browser:</p>
+
+    <figure class="center" >
+        <img src="/images/meta.png"  alt="screenshot of the blog"   style="border-radius: 8px; max-width:100%;hei    ght:auto;"  />
+
+        
+            <figcaption class="center"  style="color: 297298;" >Now that&#39;s meta.</figcaption>
+        
+    </figure>
+
+
+<h3 id="step-5-finalizing-the-content">Step 5: Finalizing the Content</h3>
+<p>If you&rsquo;re satisfied with how everything is laid out, you&rsquo;re almost done.</p>
+<p>If you haven&rsquo;t yet, press <code>control + C</code> in the terminal to stop the site rendering and to free up the terminal.</p>
+<p>Still at the terminal, enter <code>hugo</code>.
+This command will create the HTML files and put them all in the <code>isyaferrer/Sites/arawseekers/docs/</code> folder.</p>
+<h3 id="step-6-going-live">Step 6: Going Live</h3>
+<p>In the terminal, enter <code>arawpush</code>.
+It&rsquo;s another alias that invokes a simple shell script that &ldquo;pushes&rdquo; our HTML files from the previous step to the GitHub server, where our blog is currently hosted for free.</p>
+<p>The shell script, aptly named <strong>arawpush.sh</strong>, is a file containing a series of commands that accomplish several tasks.</p>
+<p>For transparency, here are the commands written in <strong>arawpush.sh</strong>:</p>
+<pre><code>#!/bin/sh
+
+git add .
+git commit -m &quot;some surprise adds and/or edit/s&quot;
+git push -u origin master
+</code></pre>
+<p>If that doesn&rsquo;t make sense, it&rsquo;s okay. Just enter <code>arawpush</code> in the terminal and it will execute the last three lines of the script without the need to type them all out. <em>Ayos!</em></p>
+<h2 id="congrats">Congrats!</h2>
+<p>You have shared a new blog post to our two readers!
+May we share more together!</p>
+<h2 id="parting-thoughts">Parting thoughts</h2>
+<p>More than a year after creating this blog, I am realizing that Hugo, too, is a massive tool whose documentation can be confusing, especially for those who aren&rsquo;t too keen on reading them on their free time.
+I <em>might</em> consider using a <a href="https://www.romanzolotarev.com/ssg.html">simpler static site generator</a>, but this also means overhauling the site, which neither of us has the time nor the patience to do&hellip; yet.
+For now, Hugo will do.</p>
+<p>Anyway, I hope you found this informative.
+If not, you know where to find me. ;)</p>
+<p>xoxo0xox0ox00xxooXX++xx+0+0x+0x,<br>
+Ohio</p>
+<p><code>-(o-</code></p>
 ]]></content>
         </item>
         

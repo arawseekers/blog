@@ -38,6 +38,31 @@
   </url>
   
   <url>
+    <loc>/tags/blog/</loc>
+    <lastmod>2020-08-30T14:53:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/arawflow/</loc>
+    <lastmod>2020-08-30T14:53:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2020-08-30T14:53:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-08-30T14:53:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-08-30T14:53:26+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/isya/</loc>
     <lastmod>2020-08-17T16:05:59+08:00</lastmod>
   </url>
@@ -54,16 +79,6 @@
   
   <url>
     <loc>/posts/i-mask/</loc>
-    <lastmod>2020-08-17T16:05:59+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2020-08-17T16:05:59+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-08-17T16:05:59+08:00</lastmod>
   </url>
   
