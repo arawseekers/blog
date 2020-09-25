@@ -31,4 +31,4 @@ Currently, we don't have comments section on this site. We accept and read comme
 
 If you would rather have a conversation, email us: **arawseekers@tuta.io**
 
-If you have an RSS reader, you can follow our blog by copying the RSS link at the footer (the one with wifi-like waves).
+Subscribe to our [RSS feed](https://arawseeker.github.io/posts/index.xml)!
