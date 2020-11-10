@@ -6,7 +6,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Isya and Ohio</copyright>
-        <lastBuildDate>Sun, 30 Aug 2020 14:53:26 +0800</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2020 18:06:16 +0800</lastBuildDate>
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
@@ -15,18 +15,8 @@
             <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
             
             <guid>/posts/fbless/</guid>
-            <description>Another excuse to binge on social media  Use of FB in daily lives Since it&amp;rsquo;s free to sign up and use its services, Facebook has been popular for many Filipinos from all walks of life. Here they get updates from friends and non-friends, from relatives, from celebrities, and even from the news. It has become its own social news aggregate. Users provide the data, such as date of birth, school last attended, the things they like or don&amp;rsquo;t like, etc.</description>
-            <content type="html"><![CDATA[
-    <figure class="center" >
-        <img src="/images/facebook.jpeg"  alt="A laptop showing a photo of cat in a Facebook group"   style="border-radius: 8px; max-width:100%;height:auto;"  />
-
-        
-            <figcaption class="center"  style="color: 297298;" >Another excuse to binge on social media</figcaption>
-        
-    </figure>
-
-
-<h2 id="use-of-fb-in-daily-lives">Use of FB in daily lives</h2>
+            <description>Use of FB in daily lives Since it&amp;rsquo;s free to sign up and use its services, Facebook has been popular for many Filipinos from all walks of life. Here they get updates from friends and non-friends, from relatives, from celebrities, and even from the news. It has become its own social news aggregate. Users provide the data, such as date of birth, school last attended, the things they like or don&amp;rsquo;t like, etc.</description>
+            <content type="html"><![CDATA[<h2 id="use-of-fb-in-daily-lives">Use of FB in daily lives</h2>
 <p>Since it&rsquo;s free to sign up and use its services, Facebook has been popular for many Filipinos from all walks of life. Here they get updates from friends and non-friends, from relatives,  from celebrities, and even from the news. It has become its own social news aggregate. Users provide the data, such as date of birth, school last attended, the things they like or don&rsquo;t like, etc.; and these data are then fed to the platform&rsquo;s algorithm that&rsquo;s being tweaked to better serve you, i.e, show you things you might appreciate.</p>
 <p>As far as we know, the telecom providers here in the Philippines provide free data to FB users. This is useful, especially with the Messenger, in which one can send and receive virtually unlimited number of messages to and from their friends and family, without having to worry about data charges. There are limitations, of course, when using only free data. For example, photos and videos are not outright available. Still, Facebook, and its other services, Instagram and WhatsApp, seems to be the practical choice when connecting to people with smartphones nowadays.</p>
 <h2 id="why-quit-fb">Why Quit FB</h2>
@@ -81,16 +71,6 @@
 <p>Then, they will come around and ask me why I did it. I&rsquo;m not always able to answer, or, if i do, not phrase it understandably. And the inquirers will leave unconvinced.</p>
 <h2 id="alternatives">Alternatives&hellip;?</h2>
 <h3 id="linkedin-profile">Linkedin Profile</h3>
-
-    <figure class="center" >
-        <img src="/images/linkedin.jpeg"  alt="A laptop showing a feed from LinkedIn"   style="border-radius: 8px; max-width:100%;height:auto;"  />
-
-        
-            <figcaption class="center"  style="color: 297298;" >It&#39;s okay to dislike your job by pretending you agree with colleagues.</figcaption>
-        
-    </figure>
-
-
 <p>In the age of information, it&rsquo;s become an unwritten rule to have an online presence. While we believe that this shouldn&rsquo;t be the case, the opposite would raise suspicion. To avoid that, we recommend for now to have an updated LinkedIn profile. Having one also reduces skepticism, which you would find helpful in the gates of Immigration when they do background checks on you.</p>
 <p>However, LinkedIn suffered from data breach in 2012 (<a href="https://blog.linkedin.com/2012/06/06/linkedin-member-passwords-compromised">here</a> and <a href="https://www.pcworld.com/article/257045/6-5m-linkedin-passwords-posted-online-after-apparent-hack.html">here</a>) and in 2016 (<a href="https://blog.linkedin.com/2016/05/18/protecting-our-members">here</a>, <a href="https://www.vice.com/en_us/article/78kk4z/another-day-another-hack-117-million-linkedin-emails-and-password">here</a>, and <a href="https://fortune.com/2016/05/18/linkedin-data-breach-email-password/">here</a>). Although there hasn&rsquo;t been any more reported breaches as of writing this, we can&rsquo;t bet on it yet.</p>
 <p>If you have access to more resources, you can make a simple website of your own, and put your CV there, bypassing altogether the need for creating a LinkedIn profile. Plus, you have complete control on what data you&rsquo;d like to share.</p>
@@ -1251,7 +1231,7 @@ Their five-day stay in Taipei, Taiwan did not bring any actual “pasalubong” 
         <img src="/images/ipod8.jpeg"  alt="snippet from a Neistat video, with the text: iPod&#39;s UNREPLACEABLE battery lasts only 18 months"   style="border-radius: 8px; max-width:100%;height:auto;"  />
 
         
-            <figcaption class="center"  style="color: 297298;" >(c) Neistat Brothers</figcaption>
+            <figcaption class="center"  style="color: 297298;" >iPod&#39;s UNREPLACEABLE BATTERY LASTS ONLY 18 MONTHS (c) Neistat Brothers</figcaption>
         
     </figure>
 
@@ -1320,6 +1300,193 @@ Their five-day stay in Taipei, Taiwan did not bring any actual “pasalubong” 
 <p>We can&rsquo;t figure out what&rsquo;s blocking the components inside, preventing a complete close of the back panel. It could be brute-forced to close, but we reckon this might damage the LCD screen, or pierce the battery, or what-have-you. We&rsquo;d like to think that we did all the steps correctly, but Isya commented that it could be that the battery used was an ill fit for the the iPod.</p>
 <p>A proper repair guy would retrace the steps he did to figure out what went wrong where, but I think troubleshooting is better saved for the future as a separate endeavor.</p>
 <p>But it isn&rsquo;t stupid if it works, right? This iPod lives on, then. <code>-o)-</code></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Deciding on What Hardware (with examples)</title>
+            <link>/posts/what-hardware/</link>
+            <pubDate>Tue, 03 Nov 2020 18:06:16 +0800</pubDate>
+            
+            <guid>/posts/what-hardware/</guid>
+            <description>We try to remind people to never buy into brands, because brand loyalty is a sham. In fact, we try to remind them, as well as ourselves, to never buy something new unless the situation really calls for it. After all, the first R in the Top R&amp;rsquo;s of Sustainability is Refuse, followed by, in order, Reduce, Reuse, Repair, Rot, Recycle, and finally Rethink. But we all know it&amp;rsquo;s hard.</description>
+            <content type="html"><![CDATA[<p>We try to remind people to never buy into brands, because brand loyalty is a sham.
+In fact, we try to remind them, as well as ourselves, to never buy something new unless the situation really calls for it.
+After all, the first R in the <em>Top R&rsquo;s of Sustainability</em> is Refuse, followed by, in order, Reduce, Reuse, Repair, Rot, Recycle, and finally Rethink.
+But we all know it&rsquo;s hard.</p>
+<h2 id="we-need-to-assess-the-things-that-we-need">We need to assess the things that we need.</h2>
+<p>It goes without saying:
+Marketers, after all, are masters of their own graft.
+They can make you believe anything, and even back it up with data.
+They pool legitimate scientific resources to produce believable statistics, and present it to us.
+For profit.
+Nice!</p>
+<p>It becomes important, then, now more than ever, to be critical of the things we engage with in the Market.
+If buying means voting with your money, then it matters less than its repercussions, big or small, in the overall state of things.</p>
+<p>Vote (i.e. buy) all you want, sure, if you can.
+This facet of consumerism is, at most, an insignificant unit that results from your true participation.
+Environmentalism doesn&rsquo;t have to be a radical movement.
+One simply must be aware of how they can affect it, and it them.</p>
+<p>Think of the things you have needed for the past few months.
+List them down on a paper, and it&rsquo;s important you do.
+How, if at all possible, can you achieve a similar output with what you already have?
+Better yet, can you make it work in spite of the tools you only have or don&rsquo;t have?</p>
+<p>Constraints can be leveraged to make more meaningful work.
+For example, knowing that we have limited time urges us to Do Things Now.
+Great art, works of literature, progress in scientific discovery, all came from having restrictions.</p>
+<h3 id="our-suggestion">Our suggestion</h3>
+<p><strong>List the tasks you need to accomplish using the item.</strong>
+The more use cases you can think of, the better the merits of buying it.
+A ceramic mug, for instance, not only can hold your hot drinks, it can also be vessel for your cold drinks, even the room-temperature drinks.
+It can also hold pens, small plants, or freshly cooked rice, if you&rsquo;re feeling yellow.</p>
+<p><strong>Then, determine the minimum specifications required to complete these tasks.</strong>
+Make sure you&rsquo;re not sacrificing quality for cost.
+Ask as many people as possible who knows more about the subject than you do.
+Be open to ideas that seemingly goes out of the norm when you encounter them, because they may contain a kernel of good insight that&rsquo;s worth considering.
+(E.g. &ldquo;Don&rsquo;t buy any Mitsubishi pick-up truck upwards of the 90s. Modern trucks are becoming harder to repair!&quot;)</p>
+<p><strong>Lastly, look around for the hardware that has all the minimum requirements.</strong>
+Look up for full reviews online, and see them in action in YouTube.
+If the &ldquo;base&rdquo; model somehow doesn&rsquo;t fit your needs, slowly work your way up to &ldquo;better&rdquo; versions as permitted by your budget.</p>
+<p>This kind of thinking can be applied to anything you plan on buying.</p>
+<p>Below are three examples of hardware that we&rsquo;ve been using a lot, especially during this COVID-19 Pandemic, when we spend most of our time indoors.</p>
+<h2 id="personal-computer">Personal Computer</h2>
+<p>Having one can be empowering, because it enables us to do many things, even more so when connected to the internet.
+We listed below our most common use cases for our personal computer.</p>
+<ul>
+<li><strong>Browse the internet</strong>. This allows us to access a wide range of information and services, like finding job, looking up a location on a map, etc.</li>
+<li><strong>Read blogs, news, and other feed updates with an RSS reader</strong> to keep up with the times.</li>
+<li>Online banking</li>
+<li>Publish (and edit) blog &ndash; <em>this</em> one.</li>
+<li>Email, preferably with encryption, but we&rsquo;re still getting everyone on board with us on that one.
+Shoot us <a href="mailto:arawseekers@tuta.io">one</a> if you&rsquo;re feeling it.</li>
+<li><strong>Programming</strong>. From simply automating tasks using scripts, to creating a whole new software, modern computers can do a lot of things you tell it to do, if you only know how &ldquo;tell it.&rdquo; Learning programming can be beneficial for the Modern Individual, regardless of technical background.</li>
+<li>Accounting</li>
+<li>Media player</li>
+<li><strong>Office Suite</strong>. For the occasional word processing, slide presentations, etc.</li>
+<li><strong>Image Manipulation</strong>. Photoshop might be <em>the</em> industry standard, but we challenge its bloatware with other alternatives that one can get for free. GIMP and Krita are both good options. If you&rsquo;re comfortable with the command line, you might look into ImageMagick.</li>
+</ul>
+<p>Regardless of the operating system (OS) you have on your computer right now, you can do all of these things.</p>
+<h3 id="actual-specs-we-can-get-away-with">Actual Specs We can get away with</h3>
+<ul>
+<li><strong>CPU: Intel Core i5</strong> &ndash; We could force ourselves with Core i3 or even Core Duo, but that might mean drastically changing our computer habits, like replacing the OS with a minimal one.</li>
+<li><strong>Memory: 8GB RAM</strong> &ndash; We could probably do fine with 4GB RAM, if it weren&rsquo;t for the Modern Web being full of bloat, i.e., unnecessary features.
+Of course, a bloated Web needs a bloated Browser.
+Chromium-based browsers like Google Chrome and Brave eat up a lot of RAM.
+Mozilla Firefox behaves nearly the same.
+If you&rsquo;re going to spend most of the time in the browser, it only makes sense why so many people obsess over the RAM.
+However, we think that anything higher than 8GB is overkill for us, since we won&rsquo;t be editing videos or rendering high-quality photographs.</li>
+<li><strong>Display</strong>: Somewhere between 14&rdquo; to 27&rdquo; LCD Monitor, with a resolution of 1600x900 or better. Since we don&rsquo;t have a TV set, it would be nice to invest in larger monitors, since this is where we will be watching movies and such.</li>
+<li><strong>Network Adapter</strong>: 802.11ac 2.4/5 GHz wireless adapter, if we&rsquo;re going for laptops. Otherwise, ethernet for desktop will do just as well, if not better.</li>
+</ul>
+<p>Since we didn&rsquo;t list portability as a must-have, our computer can either be a desktop or a laptop.
+If we&rsquo;re opting for laptop, weight isn&rsquo;t an issue.
+It would even be an excuse for a free workout, carrying a hunk of metal in the bag around.</p>
+<p>Bluetooth connection have been disregarded, since we rarely use it.
+We can simply transfer files over the internet.</p>
+<p>Notice also the lack of preference for GPU, since we rarely play video games in our computer, and even if we do, it&rsquo;s one of those old-school ones that we can play via an emulator.
+Although, if we can play 1080p to 1440p videos without hassling our machine, we wouldn&rsquo;t be complaining.</p>
+<h2 id="mobile-phone">Mobile Phone</h2>
+<ul>
+<li><strong>Quick look-up on internet</strong>. The keyword here is quick.
+This means that we don&rsquo;t need to have a &ldquo;full&rdquo; browser that&rsquo;s heavy on the resources, similar to what Firefox Focus is able to do.
+If it&rsquo;s something that we need to delve on further, we could look it up later on our main computer.</li>
+<li><strong>SMS &amp; Call</strong>.
+Modern prepaid plans out there are more than enough for our SMS &amp; Call needs.
+Any communication that requires extended periods over the internet, we can do at home, while connected to our wifi.</li>
+<li><strong>End-to-end encrypted instant messaging</strong>. As we approach 2021, it&rsquo;s time to normalize E2EE instant messaging among our family and friends.
+Signal Private Messenger is great tool for this.
+It&rsquo;s outside the algorithms of Facebook and Google.</li>
+<li><strong>Quick photo op</strong>. Again, the keyword quick.
+It&rsquo;s fine to get into photography, but a decent picture that reminds us of a wonderful story is better than a great picture that depicts none.
+A snap that can capture a memory suffices this, so that, for now, we won&rsquo;t be needing an expensive, standalone DSLR.</li>
+<li><strong>Quick video recording</strong>. Same with above, but for motion pictures.</li>
+<li>Navigation with GPS and maps</li>
+<li><strong>Two-factor authentication</strong>. 2FA is a must-have now these days.
+Phones can act as an authenticator for when you log in on different software services over the web.
+One-time passwords that some online banks send you is an example of this.</li>
+<li>Calculator, unit converter</li>
+<li><strong>Dictionary</strong>, for when you need to look up a word without having to go online. Especially during a competitive Boggle game.
+Plus, you don&rsquo;t have to stumble around your shelves looking for that heavy, unused book.</li>
+<li><strong>Time keeper, including calendar, alarm clock, stop watch, timer</strong>.
+Note that you can also implement redundancy for some of these, like having an actual calendar on your table, so you don&rsquo;t have to pull your phone just to check dates;
+or a separate alarm clock, so you avoid distraction by leaving your phone in a different room during bedtime.
+Your mileage may vary.</li>
+<li>Media player on the go</li>
+<li><strong>QR scanner</strong>. QR codes are becoming ubiquitous, it being an efficient way of storing data on a relatively small footprint.
+Having a scanner is always handy.</li>
+</ul>
+<p>Based on these, we can easily infer that a smartphone can do all these things.
+Though, if you&rsquo;re going old school with your use case and only need a phone for SMS and call, then a burner phone would fit you just fine.</p>
+<p>There are other &ldquo;useful&rdquo; things we didn&rsquo;t include here, like e-book reader, because we don&rsquo;t feel like reading off of a screen for extended periods of time.
+In this case, we prefer to read printed material whenever we can.</p>
+<h3 id="actual-specs-we-can-get-away-with-1">Actual Specs We can get away with</h3>
+<ul>
+<li><strong>RAM: 2GB</strong>, at least.</li>
+<li><strong>CPU: 1.9GHz</strong>, at least.</li>
+<li><strong>Storage: 32 GB</strong>. This provides us a comfortable wiggle room to accommodate the needed applications.</li>
+<li><strong>SD card: up to 64 GB</strong>. This provision is optional, as we could simply transfer the files from our phones to our computer, which has bigger memory storage.</li>
+<li>Network: 4G LTE</li>
+<li><strong>Screen: Somewhere between 5&rdquo;-5.7&rdquo;</strong>. Size doesn&rsquo;t really matter.
+If anything, bigger phones are more difficult to operate with one hand, which can be crucial sometimes, especially when sending that quick urgent reply while you&rsquo;re crammed in your commute.</li>
+<li><strong>With Headphone Jack</strong>. As phone manufacturers continue to eliminate the jack from off their products, finding a phone with one has become a necessity for us.
+We don&rsquo;t hate on wireless connectivity, but keeping the wired option is less expensive, and ultimately the more reliable option.</li>
+<li>Wifi: 802.11 a/b/g/n/ac, DLNA</li>
+<li>Cameras: 8MP with LED Flash for back, 2MP No flash for front</li>
+</ul>
+<p>Here&rsquo;s the twist: any decent smartphone from 2013 can still do all of the use cases listed above without hiccup!
+It&rsquo;s likely to improve once you replace the battery and/or flash it with third-party OS like <a href="https://lineageos.org">Lineage OS</a>, but be sure to consult someone with the technical know-how if you have know idea how to these both.</p>
+<p>Armed with this knowledge, we can include seven-year old, secondhand smartphones when considering to buy one in the future, further lowering the cost of purchase while still meeting our needs.</p>
+<h2 id="notebook">Notebook</h2>
+<ul>
+<li>To-do lists</li>
+<li>(In)Gratitude journal</li>
+<li>Scheduling, planning</li>
+<li>Budget tracker, old-school analog accounting</li>
+<li>Long form journaling</li>
+<li>Misc. Note taking</li>
+<li>Tracker</li>
+<li>Project Management</li>
+</ul>
+<p>Now, you can write these all down on virtually any notebook on any layout.
+Currently, our preferred setup is the bullet journal, which can still be modified to meet personal needs.
+Or there can be no setup up at all; just write on whatever page you please.</p>
+<h3 id="actual-specs-we-can-get-away-with-2">Actual Specs We can get away with</h3>
+<p>Bullet journaling seems to work best (read: looks cleanest) on a dotted grid notebook, so this is usually what we seek when we buy a new one.
+Dotted grid notebook allows you to be flexible with the number and placement of lines and/or grids you add (or not add).</p>
+<p>We avoid predesigned planners, because they can be too daunting, demanding you to fill them up with things you don&rsquo;t feel documenting.
+This way, we&rsquo;re free <em>NOT</em> to acquire annual journals that have dates of the current year.</p>
+<blockquote>
+<p><strong>PRO TIP</strong> (?) : If you happen to have an unused annual journal (or a calendar for that matter), you don&rsquo;t have to throw it away.
+Check out <a href="https://whencanireusethiscalendar.com">WhenCanIReuseThisCalendar</a>.com to see when you can reuse it.</p>
+</blockquote>
+
+    <figure class="left" >
+        <img src="/images/2020.jpg"   style="border-radius: 8px; max-width:100%;height:auto;"  />
+
+        
+            <figcaption class="center"  style="color: 297298;" >This journal can be useful again in 2048, 2076, or 2116! Or you know, we could just ignore that and write in it anyway!</figcaption>
+        
+    </figure>
+
+
+<h2 id="honorable-mentions">Honorable Mentions</h2>
+<p>The following are listed here to remind us of what we need to re-evaluate before considering shopping for it.
+These will definitely improve our current situation, but are not necessarily vital at the moment.</p>
+<ul>
+<li>Ergonomic Workstation Chair, with back and lumbar support.</li>
+<li>Printer and scanner, in one machine, that can accommodate up to A3 size paper.</li>
+<li>Bicycle and all the basic gear and equipment.</li>
+</ul>
+<h2 id="before-and-after-sales-service">Before and After Sales Service</h2>
+<p>By this we actually mean you taking full ownership of the product you bought.</p>
+<p>This means finding the time to learn more about it:</p>
+<ul>
+<li>to better optimize your usage;</li>
+<li>to do the occasional preventive maintenance to minimize wear and tear;</li>
+<li>to repair it if it breaks down &ndash; and it will break down &ndash; or at least, have access to someone who knows how to; and,</li>
+<li>to properly dispose or recycle at the end of its life.</li>
+</ul>
+<p><code>-O)-</code></p>
 ]]></content>
         </item>
         

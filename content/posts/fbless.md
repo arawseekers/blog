@@ -11,7 +11,6 @@ series:
 - Hugo 101
 tags: ["Social Media"]
 ---
-{{< figure src="/images/facebook.jpeg" alt="A laptop showing a photo of cat in a Facebook group" position="center" style="border-radius: 8px; max-width:100%;height:auto;" caption="Another excuse to binge on social media" captionPosition="center" captionStyle="color: 297298;" >}}
 
 ## Use of FB in daily lives
 
@@ -111,7 +110,6 @@ Then, they will come around and ask me why I did it. I'm not always able to answ
 
 ### Linkedin Profile
 
-{{< figure src="/images/linkedin.jpeg" alt="A laptop showing a feed from LinkedIn" position="center" style="border-radius: 8px; max-width:100%;height:auto;" caption="It's okay to dislike your job by pretending you agree with colleagues." captionPosition="center" captionStyle="color: 297298;" >}}
 
 In the age of information, it's become an unwritten rule to have an online presence. While we believe that this shouldn't be the case, the opposite would raise suspicion. To avoid that, we recommend for now to have an updated LinkedIn profile. Having one also reduces skepticism, which you would find helpful in the gates of Immigration when they do background checks on you.
 

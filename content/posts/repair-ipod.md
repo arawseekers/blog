@@ -59,7 +59,7 @@ In my search, I saw Isya's iPod tucked away in a drawer, unused, almost forgotte
 
 It wasn't turning on, even when we tried plugging it to a power source. She also vaguely recalled that she might have rolled over it.
 
-{{< figure src="/images/ipod8.jpeg" alt="snippet from a Neistat video, with the text: iPod's UNREPLACEABLE battery lasts only 18 months" position="center" style="border-radius: 8px; max-width:100%;height:auto;" caption="(c) Neistat Brothers" captionPosition="center" captionStyle="color: 297298;" >}}
+{{< figure src="/images/ipod8.jpeg" alt="snippet from a Neistat video, with the text: iPod's UNREPLACEABLE battery lasts only 18 months" position="center" style="border-radius: 8px; max-width:100%;height:auto;" caption="iPod's UNREPLACEABLE BATTERY LASTS ONLY 18 MONTHS (c) Neistat Brothers" captionPosition="center" captionStyle="color: 297298;" >}}
 
 I remember watching a [Casey and Van Neistat video](https://invidio.us/watch?v=SuTcavAzopg) that went viral in the early naught's, titled "iPod's Dirty Secret". It exposed that "iPOD'S UNREPLACEABLE [sic] BATTERY LASTS ONLY 18 MONTHS". At the time, to refurbish the iPod with a bust battery, the owner would have to send it back to Apple's Customer Service and pay around US$ 250. At that price, why not just get a new one?
 
